@@ -1,0 +1,5 @@
+$mail->Host = 'mail.newcomersunion.com';
+        $mail->Username = 'info@newcomersunion.com';
+        $mail->Password = 'UkO.?OZ;q!DV';
+        $mail->SMTPSecure = 'ssl';
+        $mail->Port = 465;
