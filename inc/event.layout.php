@@ -37,8 +37,8 @@
                             <li>Cavien</li> -->
                         </ul>
                         <ul class="d-flex comnent_count">
-                            <li><i class="fas fa-thumbs-up"></i>3 Likes</li>
-                            <li><i class="fas fa-comment"></i>2 Reviews</li>
+                            <li><i class="fas fa-thumbs-up"></i><?php echo $event_upvotes; ?> Upvote(s)</li>
+                            <li><i class="fas fa-comment"></i><?php echo $event_reviews; ?> Review(s)</li>
                         </ul>  
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                     <h4 class="_sum_header">Event Summary:</h4>
                     <p><span class="sum_header">Event Date :</span> <?php echo $event_date; ?></p>
                     <p><span class="sum_header">Event Time :</span> <?php echo $event_time; ?></p>
-                    <p><span class="sum_header">Event Venue :</span> </p>
+                    <p><span class="sum_header">Event Venue :</span> <?php echo $event_location; ?></p>
                     <p><span class="sum_header">Event Fee :</span> <?php echo $event_price; ?></p>
                 </div>
             </div>
