@@ -10,5 +10,6 @@
     $event_reviews = '0';
     include $file_dir.'inc/config.inc.php'; 
     include $file_dir.'inc/event.layout.php'; 
+    
 
 ?>
