@@ -16,7 +16,7 @@
     <header class="header_four">
     <?php include 'inc/nav.layout.php'; ?>
     </header>
-
+        
     
     <?php include 'inc/footer.layout.php'; ?>
     <?php include 'inc/scripts.layout.php'; ?>
