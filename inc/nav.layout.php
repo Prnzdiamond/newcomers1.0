@@ -25,7 +25,7 @@
 	<div class="edu_nav">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light bg-faded">
-                <a class="navbar-brand" href="index-2.html"><img src="images/logo.png" alt="logo"></a>
+                <a class="navbar-brand" href="index-2.html"><img src="../two\images\logo.png" alt="logo"></a>
                 <div class="collapse navbar-collapse main-menu" id="navbarSupportedContent" style="display: block;">
                     <ul class="navbar-nav nav lavalamp ml-auto menu">
                         <li class="nav-item"><a href="#" class="nav-link active">Home</a>
@@ -135,46 +135,4 @@
             </nav><!-- END NAVBAR -->
         </div> 
     </div>
-
-	<div class="intro_wrapper">
-		<div class="container">  
-			<div class="row">        
-				 <div class="col-sm-12 col-md-8 col-lg-8">
-					<div class="intro_text">
-						<h1>Take The World's Best Courses Online.</h1>
-						<p>Ante amet vitae vulputate odio nulla vel pretium pulvinar aenean.<br> Poncus eget adipiscing etiam arcu Ultricies.</p>
-						<div class="intro_button">
-							<a href="#" class="nav-link">Start my free month</a>
-						</div>
-					</div>
-				</div>				
-				<div class="col-sm-12 col-md-12 col-lg-12">
-					<div class="search_wrapper">
-						<div class="search-option">
-							<form action="#" class="">
-								<div class="dropdown dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-									<div class="all-categories "><span>Categories</span> <i class="cat_icon flaticon-down-arrow"></i></div>
-									<ul class="dropdown-menu" aria-labelledby="navbarDropdown" x-placement="top-start" style="position: absolute; transform: translate3d(-1px, -3px, 0px); top: 0px; left: 0px; will-change: transform;">
-										<li class="dropdown-item">Action</li>
-										<li class="dropdown-item">Another action</li>
-										<li class="dropdown-item">Action</li>
-										<li class="dropdown-item">Another action</li>
-										<li class="dropdown-item">Action</li>
-										<li class="dropdown-item">Another action</li>
-									</ul>
-								</div>
-								<div class="form-group d-flex">
-									<input placeholder="What do you want to learn today?" type="email" required="">
-								</div>
-								<div class="submit-btn">
-									<button type="submit" class="text-center">Search</button>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div> 
-	</div>  
 </header>

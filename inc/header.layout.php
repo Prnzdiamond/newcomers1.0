@@ -58,7 +58,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/bootstrap.min.css">
     <!-- Font awsome CSS -->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/font-awesome.min.css">    
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/font-awesome.min.css">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/font-awesome.css"> 
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/themify-icons.css">    
     <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/flaticon.css">
     <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/magnific-popup.css">    
     <!-- owl carousel -->
@@ -79,4 +81,4 @@
     <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/style.css">    
     <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/responsive.css">
     <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/demo.css">
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/style.css">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/style.css?v=<?php echo time(); ?>">

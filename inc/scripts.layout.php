@@ -22,6 +22,7 @@
     <script src="<?php echo $file_dir; ?>assets/js/assets/revolution/extensions/revolution.extension.navigation.min.js"></script>
     <script src="<?php echo $file_dir; ?>assets/js/assets/revolution/extensions/revolution.extension.parallax.min.js"></script>
     <script src="<?php echo $file_dir; ?>assets/js/assets/revolution/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="<?php echo $file_dir; ?>assets/js/owl.carousel.js"></script>   
     <script src="<?php echo $file_dir; ?>assets/js/assets/revolution/extensions/revolution.extension.video.min.js"></script>
     <script src="<?php echo $file_dir; ?>assets/js/assets/revolution/revolution.js"></script>
     <script src="<?php echo $file_dir; ?>assets/js/custom.js"></script> 
