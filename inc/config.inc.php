@@ -1,6 +1,8 @@
 <?php
     $site = '| New Comers Union';
     $regMailSender = 'etiketochukwu@gmail.com';
+    $siteMainPhone = '+000-2356-222';
+    $siteMainEmail = 'contact@yourdomain.com';
 
     function secure_random_string($length) { 
         $random_string = ''; 

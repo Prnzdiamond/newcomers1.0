@@ -32,30 +32,15 @@
                     <img src="<?php echo $file_dir;?>assets/images/logo.png" alt="logo"></a>
                 <div class="collapse navbar-collapse main-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav nav lavalamp ml-auto menu">
-                        <li class="nav-item"><a href="#" class="nav-link active">Home</a>
+                        <li class="nav-item"><a href="<?php echo $file_dir; ?>" class="nav-link">Home</a></li>
+                        <li class="nav-item"><a href="javascript:void(0);" class="nav-link">Events</a>
                             <ul class="navbar-nav nav mx-auto">
-                                <li class="nav-item"><a href="index-2.html" class="nav-link">Home Version 01</a></li>
-                                <li class="nav-item"><a href="index-3.html" class="nav-link">Home Version 02</a></li>
-                                <li class="nav-item"><a href="index-4.html" class="nav-link">Home Version 03</a></li>
-                                <li class="nav-item"><a href="index-5.html" class="nav-link">Home Version 04</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                        <li class="nav-item"><a href="course.html" class="nav-link">Courses</a>
-                            <ul class="navbar-nav nav mx-auto">
-                                <li class="nav-item"><a href="course.html" class="nav-link">Courses</a></li>
-                                <li class="nav-item"><a href="course-details.html" class="nav-link">Courses Details</a></li>
+                                <li class="nav-item"><a href="<?php echo $file_dir; ?>event/create-event" class="nav-link">Create New Event</a></li>
+                                <li class="nav-item"><a href="<?php echo $file_dir; ?>event/manage-event" class="nav-link">Manage Event</a></li>
+                                <li class="nav-item"><a href="<?php echo $file_dir; ?>event/update-event" class="nav-link">Update Event Details</a></li>
                             </ul> 
                         </li>
-                        <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a>
-                            <ul class="navbar-nav nav mx-auto">
-                                <li class="nav-item"><a href="blog.html" class="nav-link">Blog List</a></li> 
-                                <li class="nav-item"><a href="blog-2.html" class="nav-link">Blog Grid One</a></li> 
-                                <li class="nav-item"><a href="blog-3.html" class="nav-link">Blog Grid Two</a></li>
-                                <li class="nav-item"><a href="blog-details.html" class="nav-link">Blog Details</a></li>
-                            </ul> 
-                        </li>
-                        <li class="nav-item"><a href="#" class="nav-link">Pages</a>
+                        <!-- <li class="nav-item"><a href="#" class="nav-link">Pages</a>
                             <ul class="navbar-nav nav mx-auto">
                                 <li class="nav-item"><a href="#" class="nav-link dropdown_icon">Courses</a>
                                     <ul class="navbar-nav nav mx-auto">
@@ -82,8 +67,8 @@
                                 <li class="nav-item"><a href="team.html" class="nav-link">Teachers Page</a></li>
                                 <li class="nav-item"><a href="forgot-password.html" class="nav-link">Forgot Password</a></li>
                             </ul>                            
-                        </li>     
-                        <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                        </li>      -->
+                        <li class="nav-item"><a href="<?php echo $file_dir; ?>contact.html" class="nav-link">Contact</a></li>
                     </ul>
                 </div>
                 <div class="mr-auto search_area ">
