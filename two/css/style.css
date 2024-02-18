@@ -1020,7 +1020,8 @@ header {
 
 .cources_highlight {
   padding: 0;
-  margin-top: -150px; }
+  margin-top: -150px;
+}
   .cources_highlight h2 {
     margin-bottom: 40px; }
   .cources_highlight .latest_blog_carousel {

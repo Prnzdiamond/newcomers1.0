@@ -11,3 +11,274 @@
 .card-body {
   margin: 10px;
 }
+
+.cources_highlight {
+  margin-bottom: 20px;
+}
+
+/* CSS FOR THE UPCOMING EVENTS SECTION */
+
+
+.ttm-bgcolor-skincolor, .ttm-bgcolor-skincolor > .ttm-bg-layer, .tp-shapewrapper, .ttm-bg-highlight-skin, .tp-caption.skin-flatborder-button:hover, .top-contact.ttm-highlight-left:after, .top-contact.ttm-highlight-right:after, .ttm-header-icons .ttm-header-cart-link span.number-cart, .ttm-header-icons .ttm-header-search-link a:hover, #site-navigation .menu ul.dropdown > li > a:before, #site-header-menu #site-navigation .menu ul li a span, .ttm-header-style-infostack #site-header-menu #site-navigation .menu > ul > li > a:before, .ttm-search-overlay .ttm-site-searchform button, .section-title .title-header:after, .section-title.title-style-center_text .title-header:after, .ttm-bgcolor-darkgrey .section-title .title-header:after, .ttm-icon_element-background-color-skincolor, .ttm-btn-bgcolor-skincolor, .ttm-tabs ul.tabs li.active a, .ttm-portfolio-box-view-overlay .featured-content h2.featured-title:after, .ttm-progress-bar .progress .progress-bar.progress-bar-color-bar_skincolor, .newsletter-form input[type="submit"], .ttm-quote-form input[type="submit"], .widget .widget-title:after, .title-box .page-title-heading .title:before, .social-icons.circle li>a:hover, .ttm-btn-bgcolor-black:hover, .ttm-btn.ttm-btn-color-skincolor.ttm-btn-style-border:hover, #totop.top-visible, .ttm-processbox-wrapper .ttm-processbox:hover .process-num, .ttm-video-btn .ttm-btn-play, .accordion .toggle.toggle-title.ttm-style-classic.active .toggle-title, .accordion .ttm-style-classic.ttm-toggle-title-border.active .toggle-title, .featured-imagebox-portfolio.ttm-box-view-top-image:hover .ttm-box-bottom-content, .ttm-box-view-left-image .featured-content .category> a:hover, .featured-imagebox.ttm-box-view-left-image .featured-content .category> a:hover, .ttm-nextprev-bottom-nav .nav-next a, .ttm-nextprev-bottom-nav .nav-previous a, .ttm-tabs.ttm-tab-style-horizontal ul.tabs li.active a, .ttm-tabs.tabs-for-single-products ul.tabs li:hover a, .ttm-box-post-date, .widget.widget-nav-menu ul li a:after, .sidebar .widget_product_categories li span, .sidebar .widget-Categories li span, .ttm-pagination .page-numbers.current, .ttm-pagination .page-numbers:hover, .ttm-bgcolor-grey .ttm-pagination .page-numbers.current, .ttm-bgcolor-grey .ttm-pagination .page-numbers:hover, .mailchimp-inputbox button[type="submit"], .sidebar .widget .tagcloud a:hover, .comment-list a.comment-reply-link, .single .ttm-team-member-view-default .ttm-social-links-wrapper ul li a:hover, a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .place-order button:hover, .testimonials .testimonial-content blockquote:after, .ttm-btn-play:after, .ttm-btn-play:before, .featured-imagebox-team.style2:hover .ttm-team-box-view-overlay, .tp-caption.skin-flat-button, .skin-flat-button, .ttm-video-play-btn, .ttm-video-btn .ttm-video-btn-play, .ttm-video-btn .ttm-video-btn-play:before, .ttm-video-btn .ttm-video-btn-play:after, .simple-text-box, .featured-imagebox-portfolio.ttm-box-view-top-image .featured-iconbox.ttm-media-link a, .ttm-tabs.ttm-tab-style-classic ul.tabs li.active:after, .tribe-events-back a, .tribe-events-cal-links a, .tribe-events-nav-next a, .color-trigger {
+    background-color: #14a800;
+}
+
+.ttm-row{ padding: 90px 0;}
+
+.ttm-row.event-section{padding-bottom: 70px;}
+
+.section-title.style2 .title-header{
+    width: 50%;
+    padding-right: 60px;
+}
+.section-title.style2 .title-header{
+    width: 50%;
+    padding-right: 60px;
+}
+.section-title.title-style-center_text,
+.section-title.title-style-center_text .title-desc{ text-align: center; }
+.section-title.title-style-center_text.with-desc .title-header{ margin-bottom: 47px; }
+.section-title.title-style-center_text .title-header:after{
+    width: 70px;
+    bottom: 110px;
+    height: 6px;
+    left: 50%;
+    margin-left: -35px;
+    top: auto;
+}
+
+.section-title{ position: relative; }
+.section-title h5{
+    font-family: "Poppins",Arial,Helvetica,sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    color: #8d9297;
+}
+
+.section-title h2.title{
+    font-family: "Poppins",Arial,Helvetica,sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 46px;
+    margin-bottom: 0;
+}
+
+.section-title .title-header:after{
+    display: block;
+    content: "";
+    position: absolute;
+}
+
+.section-title.title-style-center_text, .section-title.title-style-center_text .title-desc {
+    text-align: center;
+}
+.section-title .title-desc {
+    font-family: "Poppins",Arial,Helvetica,sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    margin-bottom: 32px;}
+
+    /* upcoming events row */
+    .owl-carousel.owl-loaded {
+    display: block;
+}
+
+
+
+    element.style{ width: 390px;
+    margin-right: 0px;
+}
+
+.featured-icon-box .featured-icon, .ttm-btn, button, .team-member.style-3 .team-social-icon ul li, .featured-icon-box.style-2:hover .featured-icon, .owl-item, img, span, .featured-icon-box, .portfolio-filter button, .team-hover, .team-social, .price-table, .price-table:hover .price-value, .featured-icon, .product-item:hover, .product-overlay, .product-btn, .team-member.style-4:before, .team-member.style-4 .team-description, .dropdown-item, .about-2:before, .testimonial-content, .testimonial .testimonial-content::after, .testimonial .testimonial-content::before, .team-member, .team-social, .team-description, .post, .portfolio-item a.popup, .team-title, .post .post-desc, #totop {
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}
+
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+
+.featured-imagebox-event .ttm-box-post-date {
+    top: 20px;
+    width: 60px;
+    height: 60px;
+    left: 35px;
+    z-index: 2;
+}
+.ttm-bgcolor-skincolor, .ttm-bgcolor-skincolor > .ttm-bg-layer, .tp-shapewrapper, .ttm-bg-highlight-skin, .tp-caption.skin-flatborder-button:hover, .top-contact.ttm-highlight-left:after, .top-contact.ttm-highlight-right:after, .ttm-header-icons .ttm-header-cart-link span.number-cart, .ttm-header-icons .ttm-header-search-link a:hover, #site-navigation .menu ul.dropdown > li > a:before, #site-header-menu #site-navigation .menu ul li a span, .ttm-header-style-infostack #site-header-menu #site-navigation .menu > ul > li > a:before, .ttm-search-overlay .ttm-site-searchform button, .section-title .title-header:after, .section-title.title-style-center_text .title-header:after, .ttm-bgcolor-darkgrey .section-title .title-header:after, .ttm-icon_element-background-color-skincolor, .ttm-btn-bgcolor-skincolor, .ttm-tabs ul.tabs li.active a, .ttm-portfolio-box-view-overlay .featured-content h2.featured-title:after, .ttm-progress-bar .progress .progress-bar.progress-bar-color-bar_skincolor, .newsletter-form input[type="submit"], .ttm-quote-form input[type="submit"], .widget .widget-title:after, .title-box .page-title-heading .title:before, .social-icons.circle li>a:hover, .ttm-btn-bgcolor-black:hover, .ttm-btn.ttm-btn-color-skincolor.ttm-btn-style-border:hover, #totop.top-visible, .ttm-processbox-wrapper .ttm-processbox:hover .process-num, .ttm-video-btn .ttm-btn-play, .accordion .toggle.toggle-title.ttm-style-classic.active .toggle-title, .accordion .ttm-style-classic.ttm-toggle-title-border.active .toggle-title, .featured-imagebox-portfolio.ttm-box-view-top-image:hover .ttm-box-bottom-content, .ttm-box-view-left-image .featured-content .category> a:hover, .featured-imagebox.ttm-box-view-left-image .featured-content .category> a:hover, .ttm-nextprev-bottom-nav .nav-next a, .ttm-nextprev-bottom-nav .nav-previous a, .ttm-tabs.ttm-tab-style-horizontal ul.tabs li.active a, .ttm-tabs.tabs-for-single-products ul.tabs li:hover a, .ttm-box-post-date, .widget.widget-nav-menu ul li a:after, .sidebar .widget_product_categories li span, .sidebar .widget-Categories li span, .ttm-pagination .page-numbers.current, .ttm-pagination .page-numbers:hover, .ttm-bgcolor-grey .ttm-pagination .page-numbers.current, .ttm-bgcolor-grey .ttm-pagination .page-numbers:hover, .mailchimp-inputbox button[type="submit"], .sidebar .widget .tagcloud a:hover, .comment-list a.comment-reply-link, .single .ttm-team-member-view-default .ttm-social-links-wrapper ul li a:hover, a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .place-order button:hover, .testimonials .testimonial-content blockquote:after, .ttm-btn-play:after, .ttm-btn-play:before, .featured-imagebox-team.style2:hover .ttm-team-box-view-overlay, .tp-caption.skin-flat-button, .skin-flat-button, .ttm-video-play-btn, .ttm-video-btn .ttm-video-btn-play, .ttm-video-btn .ttm-video-btn-play:before, .ttm-video-btn .ttm-video-btn-play:after, .simple-text-box, .featured-imagebox-portfolio.ttm-box-view-top-image .featured-iconbox.ttm-media-link a, .ttm-tabs.ttm-tab-style-classic ul.tabs li.active:after, .tribe-events-back a, .tribe-events-cal-links a, .tribe-events-nav-next a, .color-trigger {
+    background-color: #14a800;
+}
+.ttm-box-post-date {
+    height: 66px;
+    width: 64px;
+    position: absolute;
+    top: -20px;
+    right: 20px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 18px;
+    padding-top: 13px;
+    padding-bottom: 7px;
+    z-index: 1;
+    color: #fff;
+    text-align: center;
+}
+
+.featured-icon-box .featured-icon, .ttm-btn, button, .team-member.style-3 .team-social-icon ul li, .featured-icon-box.style-2:hover .featured-icon, .owl-item, img, span, .featured-icon-box, .portfolio-filter button, .team-hover, .team-social, .price-table, .price-table:hover .price-value, .featured-icon, .product-item:hover, .product-overlay, .product-btn, .team-member.style-4:before, .team-member.style-4 .team-description, .dropdown-item, .about-2:before, .testimonial-content, .testimonial .testimonial-content::after, .testimonial .testimonial-content::before, .team-member, .team-social, .team-description, .post, .portfolio-item a.popup, .team-title, .post .post-desc, #totop {
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}
+
+.ttm-box-post-date .ttm-entry-date .entry-month {
+    width: 100%;
+}
+.ttm-box-post-date .ttm-entry-date .entry-month, .ttm-box-post-date .ttm-entry-date .entry-year {
+    font-size: 15px;
+    font-weight: 400;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+
+.featured-imagebox-event .featured-content-event {
+    padding: 24px 30px 30px;
+    background-color: #fff;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.box-shadow2 {
+    -webkit-box-shadow: 0 0 25px 0 rgba(41,61,88,.06);
+    -moz-box-shadow: 0 0 25px 0 rgba(41,61,88,.06);
+    box-shadow: 0 0 25px 0 rgba(41,61,88,.06);
+}
+
+.featured-imagebox-event .ttm-box-meta {
+    display: table;
+}
+
+.ttm-box-meta .ttm-event-meta-item {
+    margin-right: 8px;
+    padding-bottom: 5px;
+    color: #828c96;
+}
+.ttm-box-meta .ttm-event-meta-item, .ttm-box-meta .tribe-events-vanue {
+    display: table-cell;
+    float: left;
+}
+.featured-imagebox-event .ttm-box-meta i {
+    padding-right: 8px;
+    float: left;
+    padding-top: 5px;
+}
+.ttm-event-meta-dtend, .ttm-event-meta-dtstart {
+    font-weight: 500;
+}
+
+.featured-imagebox-event .featured-content-event .ttm-event-meta-dtstart, .ttm-box-meta .ttm-event-meta-item span.sep {
+    display: none;
+}
+.ttm-event-meta-dtend, .ttm-event-meta-dtstart {
+    font-weight: 500;
+}
+.ttm-box-meta .ttm-event-meta-item, .ttm-box-meta .tribe-events-vanue {
+    display: table-cell;
+    float: left;
+}
+.featured-imagebox-event .ttm-box-meta i {
+    padding-right: 8px;
+    float: left;
+    padding-top: 5px;
+}
+.pt-10 {
+    padding-top: 10px !important;
+}
+
+.featured-title h5 {
+    font-size: 20px;
+    line-height: 27px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.ttm-btn.ttm-btn-size-sm.ttm-icon-btn-right {
+    padding-right: 39px;
+}
+
+.ttm-btn.ttm-btn-size-sm.ttm-icon-btn-right {
+    padding-right: 39px;
+}
+
+.ttm-textcolor-dark h1, .ttm-textcolor-dark h2, .ttm-textcolor-dark h3, .ttm-textcolor-dark h4, .ttm-textcolor-dark h5, .ttm-textcolor-dark h6, a.tp-caption.dark-text-button, #site-header-menu #site-navigation .menu ul li > a, .ttm-header-style-stackcenter .info-widget-content p, .featured-content .featured-title h5 a:not(:hover), .ttm-team-details-list .ttm-team-list-title, .ttm-ptablebox-features .ttm-feature-lines li:before, .ttm-btn.ttm-btn-color-black, .ttm-icon_element-color-darkgrey i, .ttm-pf-detailbox-list .ttm-pf-details-date .ttm-pf-left-details, .ttm-blog-classic .ttm-blogbox-footer-readmore a:hover, .sidebar .widget a, .ttm-pagination .page-numbers {
+    color: #182333;
+}
+.ttm-btn.btn-inline {
+    text-transform: capitalize;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 0;
+    border: 1px solid transparent;
+    background-color: transparent;
+}
+
+.ttm-btn.ttm-btn-size-sm i {
+    font-size: 11px;
+    height: 12px;
+    line-height: 12px;
+    right: 16px;
+}
+.ttm-btn.ttm-icon-btn-right i {
+    right: 2px;
+}
+.ttm-btn.ttm-icon-btn-right i {
+    right: 20px;
+}
+.ttm-btn i {
+    display: block !important;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    -o-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+}
+[class^="ti-"], [class*=" ti-"] {
+    font-family: 'themify';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.owl-carousel .owl-item {
+    padding: 0 15px;
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.fa,.fas {
+    color: #14a800 !important;
+}

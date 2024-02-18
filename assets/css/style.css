@@ -213,13 +213,13 @@ div#preloader {
   width: 3px;
   height: 50px; }
   .rev_slider_wrapper .tp-bullet.selected, .rev_slider_wrapper .tp-bullet:hover {
-    background: #ff5a2c; }
+    background: #14a800; }
 .rev_slider_wrapper #rev_slider_2 .tp-bullet {
   width: 10px;
   height: 10px;
   border-radius: 50%; }
   .rev_slider_wrapper #rev_slider_2 .tp-bullet.selected {
-    background: #ff5a2c;
+    background: #14a800;
     width: 20px;
     border-radius: 50px; }
 
@@ -287,7 +287,7 @@ div#preloader {
         background: transparent;
         font-family: "Rubik", sans-serif; }
         .login_signup_option .login_option_btn .nav-tabs .nav-item .nav-link.active, .login_signup_option .login_option_btn .nav-tabs .nav-item .nav-link:hover {
-          color: #ff5a2c; }
+          color: #14a800; }
   .login_signup_option .tab-content {
     border: none;
     background: #ffffff;
@@ -324,7 +324,7 @@ div#preloader {
         font-weight: 400;
         font-family: "Rubik", sans-serif; }
         .login_signup_option .login_modal_body form .form-group input:focus {
-          border-color: #092ace;
+          border-color: #001E00;
           outline: none;
           -webkit-box-shadow: none;
                   box-shadow: none; }
@@ -351,7 +351,7 @@ div#preloader {
     .login_signup_option .login_modal_body form .login_option {
       margin-top: 15px; }
       .login_signup_option .login_modal_body form .login_option .forget_pass {
-        color: #092ace;
+        color: #001E00;
         font-size: 16px;
         font-weight: 500;
         padding: 0 !important;
@@ -361,13 +361,13 @@ div#preloader {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         .login_signup_option .login_modal_body form .login_option .forget_pass:hover {
-          color: #ff5a2c; }
+          color: #14a800; }
       .login_signup_option .login_modal_body form .login_option .login_btn {
         height: 48px;
         line-height: 48px;
         padding: 0 40px;
         border-radius: 3px;
-        background: #092ace;
+        background: #001E00;
         font-size: 16px;
         font-weight: 500;
         color: #ffffff;
@@ -376,7 +376,7 @@ div#preloader {
         transition: all 0.3s ease-in-out;
         font-family: "Rubik", sans-serif; }
         .login_signup_option .login_modal_body form .login_option .login_btn:hover {
-          background: #ff5a2c; }
+          background: #14a800; }
     .login_signup_option .login_modal_body form .social_login {
       margin-top: 40px; }
       .login_signup_option .login_modal_body form .social_login .social_items {
@@ -450,7 +450,7 @@ div#preloader {
         font-weight: 400;
         font-family: "Rubik", sans-serif; }
         .forgot_pass .forgot_wrapper form .form-group input:focus {
-          border-color: #ff5a2c;
+          border-color: #14a800;
           outline: none;
           -webkit-box-shadow: none;
                   box-shadow: none; }
@@ -480,7 +480,7 @@ div#preloader {
       line-height: 48px;
       border: none;
       border-radius: 0;
-      background: #092ace;
+      background: #001E00;
       font-size: 16px;
       font-weight: 500;
       color: #ffffff;
@@ -488,7 +488,7 @@ div#preloader {
       -webkit-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
       .forgot_pass .forgot_wrapper form .reset_pass_btn:hover {
-        background: #ff5a2c; }
+        background: #14a800; }
 
 /*=======[ Search Style ]========*/
 #search {
@@ -572,7 +572,7 @@ div#preloader {
   #scroll-top .to-top a {
     -webkit-box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.05);
             box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.05);
-    background: #ff5a2c;
+    background: #14a800;
     border-radius: 50%;
     color: #ffffff;
     font-size: 20px;
@@ -592,7 +592,7 @@ div#preloader {
       margin: 0;
       font-size: 16px; }
   #scroll-top .to-top:hover {
-    background: #092ace none repeat scroll 0 0;
+    background: #001E00 none repeat scroll 0 0;
     color: #ffffff; }
 
 /*=========== {  Pagination Style} ===========*/
@@ -628,9 +628,9 @@ div#preloader {
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
       .pagination_blog ul li.current {
-        border: 1px solid #ff5a2c; }
+        border: 1px solid #14a800; }
         .pagination_blog ul li.current a {
-          color: #ff5a2c; }
+          color: #14a800; }
 
 .home_1_update {
   background: linear-gradient(-125deg, #e6793b 0%, #c9270e 100%);
@@ -680,11 +680,11 @@ div#preloader {
     .home_1_update .edu_nav nav .navbar-nav li a {
       color: #ffffff !important; }
       .home_1_update .edu_nav nav .navbar-nav li a.active, .home_1_update .edu_nav nav .navbar-nav li a:hover {
-        color: #092ace !important; }
+        color: #001E00 !important; }
     .home_1_update .edu_nav nav .navbar-nav li ul li a {
       color: #333146 !important; }
       .home_1_update .edu_nav nav .navbar-nav li ul li a:before {
-        color: #092ace; }
+        color: #001E00; }
     .home_1_update .edu_nav nav .search_area .navbar-nav li i:before {
       color: #ffffff; }
   .home_1_update .rev_slider_wrapper {
@@ -715,7 +715,7 @@ div#preloader {
         margin-bottom: 55px;
         font-weight: 300; }
       .features_4 .features_4_content .title a {
-        background: #ff5a2c;
+        background: #14a800;
         font-weight: 500;
         border-radius: 5px;
         color: #ffffff;
@@ -729,7 +729,7 @@ div#preloader {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         .features_4 .features_4_content .title a:hover {
-          background: #092ace; }
+          background: #001E00; }
   .features_4 .features_wrapper_box {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -748,10 +748,10 @@ div#preloader {
         height: 2px;
         width: 102%;
         left: -5px;
-        background: #092ace;
+        background: #001E00;
         bottom: 0; }
       .features_4 .features_wrapper_box .single_item_first span {
-        color: #092ace; }
+        color: #001E00; }
     .features_4 .features_wrapper_box .single_item_center {
       border: 5px solid #fff; }
       .features_4 .features_wrapper_box .single_item_center:before {
@@ -759,12 +759,12 @@ div#preloader {
         bottom: -2px;
         width: 103%;
         left: -5px;
-        background: #ff5a2c; }
+        background: #14a800; }
       .features_4 .features_wrapper_box .single_item_center .blog-img img {
         width: 100%;
         height: 100%; }
       .features_4 .features_wrapper_box .single_item_center span {
-        color: #ff5a2c; }
+        color: #14a800; }
     .features_4 .features_wrapper_box .single_item_last {
       border-top: 5px solid #fff;
       border-right: 5px solid #fff; }
@@ -772,10 +772,10 @@ div#preloader {
         height: 2px;
         width: 102%;
         right: -5px;
-        background: #092ace;
+        background: #001E00;
         bottom: 0; }
       .features_4 .features_wrapper_box .single_item_last span {
-        color: #092ace; }
+        color: #001E00; }
     .features_4 .features_wrapper_box .single_item {
       -webkit-box-shadow: 0px 0px 80px 0px rgba(47, 47, 47, 0.1);
               box-shadow: 0px 0px 80px 0px rgba(47, 47, 47, 0.1);
@@ -790,12 +790,12 @@ div#preloader {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
       .features_4 .features_wrapper_box .single_item:hover:before {
-        background: #ff5a2c; }
+        background: #14a800; }
       .features_4 .features_wrapper_box .single_item:hover .blog-img img {
         -webkit-transform: scale(1);
                 transform: scale(1); }
       .features_4 .features_wrapper_box .single_item:hover .blog_title span {
-        color: #ff5a2c; }
+        color: #14a800; }
       .features_4 .features_wrapper_box .single_item .blog-img {
         overflow: hidden; }
         .features_4 .features_wrapper_box .single_item .blog-img img {
@@ -837,7 +837,7 @@ div#preloader {
 header {
   /*=======[ Index nav Style ]========*/ }
   header .header_top {
-    background: #ff5a2c;
+    background: #14a800;
     position: relative;
     z-index: 1;
     overflow: hidden; }
@@ -947,10 +947,10 @@ header {
           header .edu_nav nav .navbar-nav li a.active {
             background: transparent;
             outline: none;
-            color: #ff5a2c !important;
+            color: #14a800 !important;
             font-weight: 700; }
           header .edu_nav nav .navbar-nav li a:hover {
-            color: #ff5a2c !important; }
+            color: #14a800 !important; }
         header .edu_nav nav .navbar-nav li ul {
           position: absolute;
           width: 240px;
@@ -1037,10 +1037,10 @@ header {
         height: 3px;
         width: 102%;
         left: -5px;
-        background: #092ace;
+        background: #001E00;
         bottom: 0; }
       .cources_highlight .latest_blog_carousel .single_item_first span {
-        color: #092ace; }
+        color: #001E00; }
     .cources_highlight .latest_blog_carousel .single_item_center {
       border: 5px solid #fff; }
       .cources_highlight .latest_blog_carousel .single_item_center:before {
@@ -1048,14 +1048,14 @@ header {
         bottom: -5px;
         width: 103%;
         left: -5px;
-        background: #ff5a2c; }
+        background: #14a800; }
       .cources_highlight .latest_blog_carousel .single_item_center .blog-img {
         height: 350px; }
         .cources_highlight .latest_blog_carousel .single_item_center .blog-img img {
           width: 100%;
           height: 100%; }
       .cources_highlight .latest_blog_carousel .single_item_center span {
-        color: #ff5a2c; }
+        color: #14a800; }
     .cources_highlight .latest_blog_carousel .single_item_last {
       border-top: 5px solid #fff;
       border-right: 5px solid #fff; }
@@ -1063,10 +1063,10 @@ header {
         height: 3px;
         width: 102%;
         right: -5px;
-        background: #092ace;
+        background: #001E00;
         bottom: 0; }
       .cources_highlight .latest_blog_carousel .single_item_last span {
-        color: #092ace; }
+        color: #001E00; }
     .cources_highlight .latest_blog_carousel .single_item {
       -webkit-box-shadow: 0px 0px 15px 0px rgba(47, 47, 47, 0.05);
               box-shadow: 0px 0px 15px 0px rgba(47, 47, 47, 0.05);
@@ -1079,12 +1079,12 @@ header {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
       .cources_highlight .latest_blog_carousel .single_item:hover:before {
-        background: #ff5a2c; }
+        background: #14a800; }
       .cources_highlight .latest_blog_carousel .single_item:hover .blog-img img {
         -webkit-transform: scale(1);
                 transform: scale(1); }
       .cources_highlight .latest_blog_carousel .single_item:hover .blog_title span {
-        color: #ff5a2c; }
+        color: #14a800; }
       .cources_highlight .latest_blog_carousel .single_item .blog-img {
         overflow: hidden; }
         .cources_highlight .latest_blog_carousel .single_item .blog-img img {
@@ -1137,7 +1137,7 @@ header {
         -webkit-transform: scale(1.1) rotate(4deg);
                 transform: scale(1.1) rotate(4deg); }
       .popular_courses .single-courses:hover .courses-content h3 a {
-        color: #ff5a2c;
+        color: #14a800;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
     .popular_courses .single-courses .courses_banner_wrapper {
@@ -1159,7 +1159,7 @@ header {
         width: 100%;
         z-index: 100; }
         .popular_courses .single-courses .courses_banner_wrapper .purchase_price a {
-          background: #092ace;
+          background: #001E00;
           font-weight: 600;
           border-radius: 0;
           color: #ffffff;
@@ -1182,19 +1182,19 @@ header {
           transition: all 0.3s ease-in-out;
           font-family: "Poppins", sans-serif; }
           .popular_courses .single-courses .courses_info_wrapper .courses_title h3 a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
       .popular_courses .single-courses .courses_info_wrapper .courses_title .teachers_name {
         padding: 15px 0 10px;
         font-family: "Rubik", sans-serif;
         font-size: 15px;
         font-weight: 400; }
         .popular_courses .single-courses .courses_info_wrapper .courses_title .teachers_name a {
-          color: #092ace;
+          color: #001E00;
           font-weight: 700;
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
           .popular_courses .single-courses .courses_info_wrapper .courses_title .teachers_name a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
       .popular_courses .single-courses .courses_info_wrapper .courses_info {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -1216,7 +1216,7 @@ header {
             .popular_courses .single-courses .courses_info_wrapper .courses_info ul li i {
               padding-right: 10px; }
         .popular_courses .single-courses .courses_info_wrapper .courses_info .cart_btn {
-          background: #ff5a2c;
+          background: #14a800;
           font-weight: 500;
           border-radius: 0;
           color: #ffffff;
@@ -1231,7 +1231,7 @@ header {
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
           .popular_courses .single-courses .courses_info_wrapper .courses_info .cart_btn:hover {
-            background: #092ace; }
+            background: #001E00; }
 
 /*=======[ Index About Style ]========*/
 .about_top_wrapper .title {
@@ -1325,7 +1325,7 @@ header {
       .events-area .event_title_wrapper .sub_title p {
         padding: 25px 10% 0 0; }
     .events-area .event_title_wrapper .envent_all_view a {
-      background: #092ace;
+      background: #001E00;
       font-weight: 500;
       border-radius: 0;
       color: #ffffff;
@@ -1339,7 +1339,7 @@ header {
       -webkit-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
       .events-area .event_title_wrapper .envent_all_view a:hover {
-        background: #ff5a2c; }
+        background: #14a800; }
   .events-area .events_full_box {
     margin-bottom: 50px; }
     .events-area .events_full_box:last-child {
@@ -1383,7 +1383,7 @@ header {
           color: #333146;
           font-size: 25px; }
           .events-area .events_single .event_info h3 a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
       .events-area .events_single .event_info .events_time {
         padding: 25px 0 30px; }
         .events-area .events_single .event_info .events_time span {
@@ -1392,7 +1392,7 @@ header {
           margin-right: 25px; }
           .events-area .events_single .event_info .events_time span i {
             padding-right: 10px;
-            color: #092ace;
+            color: #001E00;
             font-size: 16px; }
             .events-area .events_single .event_info .events_time span i:before {
               margin: 0;
@@ -1408,7 +1408,7 @@ header {
       position: absolute;
       top: 0;
       right: 0;
-      background: #ff5a2c;
+      background: #14a800;
       height: 60px;
       width: 60px;
       padding: 10px 0;
@@ -1435,7 +1435,7 @@ header {
   .testimonial .testimonial_title {
     position: relative; }
     .testimonial .testimonial_title:before {
-      color: #ff5a2c;
+      color: #14a800;
       position: absolute;
       font-weight: 600;
       font-family: "Flaticon";
@@ -1498,7 +1498,7 @@ header {
         .testimonial .carousel_images .restimonial_single_img .name_position span {
           font-size: 16px;
           font-weight: 600;
-          color: #ff5a2c;
+          color: #14a800;
           display: inherit; }
     .testimonial .carousel_images .slick-list {
       margin: 0; }
@@ -1550,7 +1550,7 @@ header {
         outline: none;
         opacity: 0.5; }
     .testimonial ul.slick-dots .slick-active button {
-      background: #ff5a2c;
+      background: #14a800;
       opacity: 1; }
   .testimonial .slick-list {
     margin: 0; }
@@ -1568,7 +1568,7 @@ header {
       -webkit-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
     .blog .single_item:hover:before {
-      background: #ff5a2c; }
+      background: #14a800; }
     .blog .single_item:hover .blog-img img {
       margin-top: -15px; }
     .blog .single_item:hover .blog_title {
@@ -1581,7 +1581,7 @@ header {
       .blog .single_item:hover .blog_title .post_bloger span {
         color: #ffffff; }
       .blog .single_item:hover .blog_title .post_bloger .bloger_name {
-        color: #ff5a2c; }
+        color: #14a800; }
     .blog .single_item .blog-img {
       overflow: hidden; }
       .blog .single_item .blog-img img {
@@ -1614,7 +1614,7 @@ header {
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
           .blog .single_item .blog_title h3 a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
       .blog .single_item .blog_title .post_bloger {
         padding: 15px 0 10px; }
         .blog .single_item .blog_title .post_bloger span {
@@ -1627,7 +1627,7 @@ header {
           transition: all 0.3s ease-in-out;
           font-weight: 400; }
         .blog .single_item .blog_title .post_bloger .bloger_name {
-          color: #ff5a2c;
+          color: #14a800;
           font-weight: 700;
           font-size: 14px; }
 
@@ -1717,12 +1717,12 @@ footer {
       right: 0;
       bottom: 0; }
   footer .become_techer_wrapper .become_a_teacher {
-    background: #ff5a2c;
+    background: #14a800;
     padding: 70px 50px 80px 120px;
     position: relative;
     z-index: 1; }
     footer .become_techer_wrapper .become_a_teacher:before {
-      background: #ff5a2c;
+      background: #14a800;
       position: absolute;
       content: "";
       top: 0;
@@ -1746,7 +1746,7 @@ footer {
       color: #ffffff;
       padding: 20px 0 35px; }
     footer .become_techer_wrapper .become_a_teacher .get_s_btn a {
-      background: #092ace;
+      background: #001E00;
       font-weight: 500;
       border-radius: 5px;
       color: #ffffff;
@@ -1799,9 +1799,9 @@ footer {
         color: #ffffff;
         font-family: "Rubik", sans-serif; }
         footer .footer_top .footer_single_col ul li a:hover {
-          color: #ff5a2c; }
+          color: #14a800; }
           footer .footer_top .footer_single_col ul li a:hover:before {
-            color: #ff5a2c; }
+            color: #14a800; }
     footer .footer_top .footer_single_col .quick_inf0 li a {
       position: relative;
       padding-left: 20px; }
@@ -1823,7 +1823,7 @@ footer {
       color: #ffffff;
       font-size: 14px; }
     footer .footer_top .footer_single_col .contact_info .email {
-      color: #ff5a2c;
+      color: #14a800;
       padding-left: 15px;
       font-weight: 600; }
     footer .footer_top .footer_single_col .social_items {
@@ -1839,7 +1839,7 @@ footer {
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
           footer .footer_top .footer_single_col .social_items li a i:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
   footer .round_shape {
     position: absolute;
     bottom: 0;
@@ -1918,7 +1918,7 @@ footer {
   .header_tow .header_top:before, .header_tow .header_top:after {
     display: none; }
   .header_tow .header_top .login_info .apply_btn {
-    background: #ff5a2c !important; }
+    background: #14a800 !important; }
 .header_tow .edu_nav {
   padding-right: 0;
   background: transparent;
@@ -1928,11 +1928,11 @@ footer {
   .header_tow .edu_nav nav .navbar-nav li a {
     color: #ffffff !important; }
     .header_tow .edu_nav nav .navbar-nav li a.active, .header_tow .edu_nav nav .navbar-nav li a:hover {
-      color: #ff5a2c !important; }
+      color: #14a800 !important; }
   .header_tow .edu_nav nav .navbar-nav li ul li a {
     color: #333146 !important; }
     .header_tow .edu_nav nav .navbar-nav li ul li a:before {
-      color: #ff5a2c; }
+      color: #14a800; }
   .header_tow .edu_nav nav .search_area .navbar-nav li i:before {
     color: #ffffff; }
 
@@ -1945,7 +1945,7 @@ footer {
       height: 2px;
       width: 90%;
       left: 0;
-      background: #092ace;
+      background: #001E00;
       bottom: 0; }
   .unlimited_possibilities .single_item_center {
     border-radius: 0 40px 0px 40px; }
@@ -1954,9 +1954,9 @@ footer {
       bottom: 0px;
       width: 90%;
       right: 0px;
-      background: #ff5a2c; }
+      background: #14a800; }
     .unlimited_possibilities .single_item_center .icon_wrapper i:before {
-      color: #ff5a2c !important; }
+      color: #14a800 !important; }
   .unlimited_possibilities .single_item {
     -webkit-box-shadow: 0px 0px 90px 0px rgba(47, 47, 47, 0.1);
             box-shadow: 0px 0px 90px 0px rgba(47, 47, 47, 0.1);
@@ -1969,14 +1969,14 @@ footer {
       -webkit-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
     .unlimited_possibilities .single_item:hover:before {
-      background: #ff5a2c; }
+      background: #14a800; }
     .unlimited_possibilities .single_item:hover .icon_wrapper i:before {
-      color: #ff5a2c; }
+      color: #14a800; }
     .unlimited_possibilities .single_item .icon_wrapper {
       padding-bottom: 30px; }
       .unlimited_possibilities .single_item .icon_wrapper i:before {
         font-size: 60px;
-        color: #092ace;
+        color: #001E00;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
         margin: 0; }
@@ -1990,7 +1990,7 @@ footer {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         .unlimited_possibilities .single_item .blog_title h3 a:hover {
-          color: #ff5a2c; }
+          color: #14a800; }
     .unlimited_possibilities .single_item .blog_title p {
       font-size: 15px;
       font-weight: 300;
@@ -2022,7 +2022,7 @@ footer {
       margin-bottom: 55px;
       font-weight: 300; }
     .learn_shep .title a {
-      background: #ff5a2c;
+      background: #14a800;
       font-weight: 500;
       border-radius: 5px;
       color: #ffffff;
@@ -2036,7 +2036,7 @@ footer {
       -webkit-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
       .learn_shep .title a:hover {
-        background: #092ace; }
+        background: #001E00; }
   .learn_shep .shep_banner_wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2125,7 +2125,7 @@ footer {
         .register_area .form-content .count_student .single_count span {
           display: block; }
         .register_area .form-content .count_student .single_count .counter, .register_area .form-content .count_student .single_count .count_icon {
-          color: #ff5a2c;
+          color: #14a800;
           font-size: 40px;
           font-weight: 700;
           padding-bottom: 10px; }
@@ -2152,7 +2152,7 @@ footer {
         padding-top: 15px;
         font-size: 16px; }
         .register_area .form-full-box .form_title p span {
-          color: #ff5a2c; }
+          color: #14a800; }
     .register_area .form-full-box .register-form {
       padding: 0; }
       .register_area .form-full-box .register-form .form-group {
@@ -2188,7 +2188,7 @@ footer {
           font-weight: 400;
           font-family: "Rubik", sans-serif; }
           .register_area .form-full-box .register-form .form-group input:focus, .register_area .form-full-box .register-form .form-group textarea:focus {
-            border-color: #092ace;
+            border-color: #001E00;
             outline: none;
             -webkit-box-shadow: none;
                     box-shadow: none; }
@@ -2217,7 +2217,7 @@ footer {
       .register_area .form-full-box .register-form .register-btn-box {
         padding-top: 20px; }
         .register_area .form-full-box .register-form .register-btn-box .register-btn {
-          background: #092ace;
+          background: #001E00;
           color: white;
           padding: 0 55px;
           color: #fff;
@@ -2232,7 +2232,7 @@ footer {
           transition: all 0.3s ease-in-out;
           cursor: pointer; }
           .register_area .form-full-box .register-form .register-btn-box .register-btn:hover {
-            background: #ff5a2c;
+            background: #14a800;
             color: #ffffff; }
 
 #instructors_page {
@@ -2255,7 +2255,7 @@ footer {
         -webkit-transform: scale(1);
                 transform: scale(1); }
       .our_instructors .team-single-item figure:hover figcaption .member-name h4 a {
-        color: #ff5a2c; }
+        color: #14a800; }
       .our_instructors .team-single-item figure .member-img {
         -webkit-box-shadow: 9px 16px 46px 0px rgba(47, 47, 47, 0.2);
                 box-shadow: 9px 16px 46px 0px rgba(47, 47, 47, 0.2);
@@ -2320,7 +2320,7 @@ footer {
   z-index: 1;
   overflow: hidden; }
   .testimonial_2:before {
-    color: #ff5a2c;
+    color: #14a800;
     position: absolute;
     font-weight: 600;
     font-family: "Flaticon";
@@ -2370,7 +2370,7 @@ footer {
     .testimonial_2 .testimonial_single .reviewer_info span {
       font-weight: 400;
       font-size: 16px;
-      color: #ff5a2c;
+      color: #14a800;
       line-height: 30px; }
   .testimonial_2 ul.slick-dots {
     position: absolute;
@@ -2390,7 +2390,7 @@ footer {
     .testimonial_2 ul.slick-dots .slick-active .pager_item {
       height: 25px;
       width: 10px;
-      background: #ff5a2c;
+      background: #14a800;
       border-radius: 10px; }
   .testimonial_2 .shape_wrapper img {
     position: absolute;
@@ -2422,7 +2422,7 @@ footer {
       -webkit-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
     .latest_news_2 .single_item:hover:before {
-      background: #ff5a2c; }
+      background: #14a800; }
     .latest_news_2 .single_item:hover .twitter_post {
       opacity: 1;
       visibility: visible; }
@@ -2434,7 +2434,7 @@ footer {
     .latest_news_2 .single_item:hover .blog_title .post_bloger span {
       color: #ffffff; }
     .latest_news_2 .single_item:hover .blog_title .post_bloger .bloger_name {
-      color: #ff5a2c; }
+      color: #14a800; }
     .latest_news_2 .single_item .item_wrapper .blog-img {
       overflow: hidden; }
       .latest_news_2 .single_item .item_wrapper .blog-img img {
@@ -2454,7 +2454,7 @@ footer {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         .latest_news_2 .single_item .item_wrapper h3 a:hover {
-          color: #ff5a2c; }
+          color: #14a800; }
     .latest_news_2 .single_item .blog_title {
       position: relative;
       padding: 0 25px 20px;
@@ -2551,7 +2551,7 @@ footer {
     font-size: 36px;
     line-height: 54px; }
   .teamgroup .teamgroup_info_wrapper .srtarte_btn {
-    background: #ff5a2c;
+    background: #14a800;
     font-family: "Rubik", sans-serif;
     padding: 0px 45px;
     line-height: 60px;
@@ -2567,7 +2567,7 @@ footer {
     transition: all 0.3s ease-in-out;
     cursor: pointer; }
     .teamgroup .teamgroup_info_wrapper .srtarte_btn:hover {
-      background: #092ace; }
+      background: #001E00; }
 
 .footer_2 {
   padding: 0; }
@@ -2608,7 +2608,7 @@ footer {
       color: #6a7a83;
       margin: 0; }
   .header_3 .header_top .info_wrapper a {
-    background: #ff5a2c;
+    background: #14a800;
     height: 54px;
     line-height: 54px;
     color: #fff;
@@ -2618,14 +2618,14 @@ footer {
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
     .header_3 .header_top .info_wrapper a:hover {
-      background: #ff5a2c;
+      background: #14a800;
       color: #ffffff; }
   .header_3 .header_top .info_wrapper .sign_up {
     background: transparent;
     color: #6a7a83;
     border-left: 1px solid #d9d9d9; }
     .header_3 .header_top .info_wrapper .sign_up:hover {
-      border-left: 1px solid #ff5a2c; }
+      border-left: 1px solid #14a800; }
 .header_3 .edu_nav nav .search_area .navbar-nav li {
   padding: 35px 0px 35px 20px; }
   .header_3 .edu_nav nav .search_area .navbar-nav li:first-child {
@@ -2649,7 +2649,7 @@ footer {
       position: absolute;
       top: -5px;
       right: -5px;
-      background: #092ace;
+      background: #001E00;
       color: #ffffff;
       font-size: 12px;
       height: 16px;
@@ -2703,18 +2703,18 @@ footer {
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .cart_info span {
         font-size: 14px; }
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .cart_info .price {
-        color: #ff5a2c; }
+        color: #14a800; }
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .cart_info a {
         margin: 0 !important;
         color: #6a7a83; }
         .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .cart_info a:hover {
-          color: #092ace; }
+          color: #001E00; }
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .del-icon i:before {
         font-size: 10px;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .del-icon i:hover:before {
-        color: #092ace; }
+        color: #001E00; }
     .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .cart_calculate_wrapper .calculate_price {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -2727,7 +2727,7 @@ footer {
         font-weight: 500;
         font-family: "Rubik", sans-serif; }
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .cart_calculate_wrapper .calculate_price .total_price {
-        color: #ff5a2c;
+        color: #14a800;
         font-size: 17px; }
     .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .purchase_btn {
       border-top: 1px solid rgba(47, 47, 47, 0.1);
@@ -2740,7 +2740,7 @@ footer {
         padding: 0; }
         .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .purchase_btn .cart_button:hover, .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .purchase_btn a.checkout:hover {
           color: #ffffff;
-          border-color: #092ace; }
+          border-color: #001E00; }
 .header_3 .intro_wrapper {
   background: url("../images/banner/banner_3.png") no-repeat center center;
   min-height: 990px;
@@ -2771,7 +2771,7 @@ footer {
     padding: 30px 0 40px; }
   .header_3 .intro_wrapper .intro_button a {
     font-family: "Rubik", sans-serif;
-    background: #ff5a2c;
+    background: #14a800;
     height: 60px;
     line-height: 60px;
     font-size: 14px;
@@ -2784,7 +2784,7 @@ footer {
     transition: all 0.3s ease-in-out;
     display: inline-block; }
     .header_3 .intro_wrapper .intro_button a:hover {
-      background: #092ace; }
+      background: #001E00; }
   .header_3 .intro_wrapper .search_wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2897,7 +2897,7 @@ footer {
           .header_3 .intro_wrapper .search_wrapper .search-option form .submit-btn button {
             height: 72px;
             padding: 0 55px;
-            background: #092ace;
+            background: #001E00;
             font-size: 18px;
             font-family: "Rubik", sans-serif;
             text-transform: uppercase;
@@ -2909,7 +2909,7 @@ footer {
             -webkit-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out; }
             .header_3 .intro_wrapper .search_wrapper .search-option form .submit-btn button:hover {
-              background: #ff5a2c; }
+              background: #14a800; }
 
 /*=======[ Cources Features ]========*/
 .courses_features {
@@ -3012,7 +3012,7 @@ footer {
         font-size: 25px;
         padding-bottom: 20px; }
         .about_us_thinking .title .step_services h3 span {
-          color: #ff5a2c;
+          color: #14a800;
           padding-right: 10px; }
 
 /*=======[ Online Videos ]========*/
@@ -3044,7 +3044,7 @@ footer {
         .video_online .video_wrapper .video_banner .video_view_btn a:before {
           position: absolute;
           content: "";
-          background: #092ace;
+          background: #001E00;
           left: 50%;
           top: 36%;
           border-radius: 50%;
@@ -3088,7 +3088,7 @@ footer {
             margin: 0; }
           .video_online .video_wrapper .video_banner .video_view_btn a i:after {
             position: absolute;
-            background: #092ace;
+            background: #001E00;
             content: "";
             height: 100px;
             width: 100px;
@@ -3152,7 +3152,7 @@ footer {
         font-size: 16px;
         font-weight: 500;
         font-family: "Rubik", sans-serif;
-        color: #ff5a2c; }
+        color: #14a800; }
 
 /*=======[ Testimonial Three ]========*/
 .testimonial_3 {
@@ -3192,7 +3192,7 @@ footer {
         .testimonial_3 .testimonial_single .reviewer_info .name_position span {
           font-size: 16px;
           font-weight: 400;
-          color: #ff5a2c;
+          color: #14a800;
           display: inherit; }
     .testimonial_3 .testimonial_single p {
       font-size: 18px;
@@ -3226,7 +3226,7 @@ footer {
       .meet_our_team .meet_team_wrapper .sub_title p {
         padding: 25px 10% 0 0; }
     .meet_our_team .meet_team_wrapper .envent_all_view a {
-      background: #ff5a2c;
+      background: #14a800;
       font-weight: 500;
       border-radius: 50px;
       color: #ffffff;
@@ -3241,7 +3241,7 @@ footer {
       transition: all 0.3s ease-in-out; }
       .meet_our_team .meet_team_wrapper .envent_all_view a:hover {
         background: #ffffff;
-        color: #092ace; }
+        color: #001E00; }
   .meet_our_team .testimonial_single {
     position: relative;
     -webkit-box-shadow: 0px 0px 81px 0px rgba(47, 47, 47, 0.1);
@@ -3280,7 +3280,7 @@ footer {
             -webkit-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out; }
             .meet_our_team .testimonial_single .reviewer_info .name_position .name a:hover {
-              color: #ff5a2c; }
+              color: #14a800; }
         .meet_our_team .testimonial_single .reviewer_info .name_position span {
           font-size: 20px;
           font-family: "Rubik", sans-serif;
@@ -3354,9 +3354,9 @@ footer {
           margin: 12px 0; }
           .priceing .pricing_wrapper .single_price_table.active .pricing-content .pricing_btn a {
             background: #ffffff;
-            color: #092ace; }
+            color: #001E00; }
             .priceing .pricing_wrapper .single_price_table.active .pricing-content .pricing_btn a:hover {
-              background: #092ace;
+              background: #001E00;
               color: #ffffff; }
       .priceing .pricing_wrapper .single_price_table .pricing_title {
         text-align: center;
@@ -3387,12 +3387,12 @@ footer {
             font-size: 20px;
             bottom: 0;
             font-weight: 600;
-            color: #092ace;
+            color: #001E00;
             padding-left: 20px; }
             .priceing .pricing_wrapper .single_price_table .price p sub:before {
               content: "";
               position: absolute;
-              background: #092ace;
+              background: #001E00;
               height: 35px;
               width: 2.5px;
               bottom: 0;
@@ -3411,7 +3411,7 @@ footer {
         .priceing .pricing_wrapper .single_price_table .pricing-content .pricing_btn {
           margin: 12px 0; }
           .priceing .pricing_wrapper .single_price_table .pricing-content .pricing_btn a {
-            background: #092ace;
+            background: #001E00;
             color: #ffffff;
             font-weight: 600;
             font-size: 14px;
@@ -3424,7 +3424,7 @@ footer {
             -webkit-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out; }
             .priceing .pricing_wrapper .single_price_table .pricing-content .pricing_btn a:hover {
-              background: #ff5a2c;
+              background: #14a800;
               color: #ffffff; }
 
 .app_download {
@@ -3501,7 +3501,7 @@ footer {
       .footer_3 .become_instractor .sub_title p {
         padding: 25px 10% 0 0; }
     .footer_3 .become_instractor .envent_all_view a {
-      background: #ff5a2c;
+      background: #14a800;
       font-weight: 500;
       border-radius: 50px;
       color: #ffffff;
@@ -3516,7 +3516,7 @@ footer {
       transition: all 0.3s ease-in-out; }
       .footer_3 .become_instractor .envent_all_view a:hover {
         background: #ffffff;
-        color: #092ace; }
+        color: #001E00; }
   .footer_3 .copyright {
     text-align: center;
     padding: 80px 0 50px; }
@@ -3583,7 +3583,7 @@ footer {
         .header_inner .intro_wrapper .pages_links a:last-child:before, .header_inner .intro_wrapper .pages_links a:last-child:after {
           display: none; }
       .header_inner .intro_wrapper .pages_links a:hover {
-        color: #ff5a2c; }
+        color: #14a800; }
     .header_inner .intro_wrapper .pages_links .active:hover {
       color: #ffffff; }
 
@@ -3608,7 +3608,7 @@ footer {
         -webkit-transform: scale(1.05);
                 transform: scale(1.05); }
       .blog_wrapper .single_blog:hover .post_content_wrapper h3 a {
-        color: #ff5a2c; }
+        color: #14a800; }
     .blog_wrapper .single_blog .blog_banner {
       overflow: hidden; }
       .blog_wrapper .single_blog .blog_banner img {
@@ -3656,7 +3656,7 @@ footer {
               margin: 0;
               font-size: 14px; }
           .blog_wrapper .single_blog .post_content_wrapper .post_by a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
             .blog_wrapper .single_blog .post_content_wrapper .post_by a:hover i {
               padding-left: 15px; }
         .blog_wrapper .single_blog .post_content_wrapper .post_by .social_wrapper span {
@@ -3733,7 +3733,7 @@ footer {
       .blog_wrapper .single_without_img .post_content_wrapper .post_date p {
         color: #ffffff !important; }
         .blog_wrapper .single_without_img .post_content_wrapper .post_date p span {
-          color: #092ace !important; }
+          color: #001E00 !important; }
       .blog_wrapper .single_without_img .post_content_wrapper .post_by {
         padding: 40px 0 0 !important; }
         .blog_wrapper .single_without_img .post_content_wrapper .post_by .social_wrapper span {
@@ -3779,7 +3779,7 @@ footer {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         .blog_wrapper .blog_post .post_by span a:hover {
-          color: #ff5a2c; }
+          color: #14a800; }
   .blog_wrapper .blog_post .postpage_content_wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -3864,14 +3864,14 @@ footer {
           left: 0;
           font-size: 55px;
           opacity: 0.5;
-          color: #ff5a2c;
+          color: #14a800;
           -webkit-transform: translateY(-50%);
                   transform: translateY(-50%); }
       .blog_wrapper .blog_post .postpage_content_wrapper .blog_post_content .banner {
         padding: 20px 0;
         text-align: center; }
         .blog_wrapper .blog_post .postpage_content_wrapper .blog_post_content .banner p {
-          color: #ff5a2c;
+          color: #14a800;
           font-size: 14px;
           padding-top: 15px;
           font-weight: 500px;
@@ -3895,7 +3895,7 @@ footer {
             -webkit-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out; }
             .blog_wrapper .blog_post .postpage_content_wrapper .post_response_count .tags li a:hover {
-              color: #ff5a2c; }
+              color: #14a800; }
         .blog_wrapper .blog_post .postpage_content_wrapper .post_response_count .tags .tag_headline {
           font-weight: 600;
           color: #333146; }
@@ -3980,14 +3980,14 @@ footer {
                 font-size: 14px;
                 font-weight: 500;
                 margin: 0 0 0 30px;
-                color: #092ace;
+                color: #001E00;
                 -webkit-transition: all 0.3s ease-in-out;
                 transition: all 0.3s ease-in-out;
                 font-family: "Rubik", sans-serif; }
                 .blog_wrapper .blog_post .postpage_content_wrapper .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text .author_info .reply-comment a:hover {
-                  color: #ff5a2c; }
+                  color: #14a800; }
                   .blog_wrapper .blog_post .postpage_content_wrapper .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text .author_info .reply-comment a:hover i {
-                    color: #ff5a2c;
+                    color: #14a800;
                     -webkit-transition: all 0.3s ease-in-out;
                     transition: all 0.3s ease-in-out;
                     padding-right: 10px;
@@ -4071,7 +4071,7 @@ footer {
         padding: 0 40px;
         font-size: 14px;
         font-weight: 500;
-        background: #ff5a2c;
+        background: #14a800;
         text-transform: uppercase;
         border: none;
         border-radius: 5px;
@@ -4085,7 +4085,7 @@ footer {
         transition: all 0.3s ease-in-out;
         font-family: "Rubik", sans-serif; }
         .blog_wrapper .blog_post .postpage_content_wrapper .leave_comment_wrapper .leave_comment .submit-btn button:hover {
-          background: #092ace; }
+          background: #001E00; }
   .blog_wrapper .blog_wrapper_right {
     padding-left: 50px; }
     .blog_wrapper .blog_wrapper_right .blog-right-items .items-title .title {
@@ -4128,7 +4128,7 @@ footer {
           font-size: 12px;
           color: #ffffff; }
           .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .form_title p span {
-            color: #ff5a2c; }
+            color: #14a800; }
       .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .register-form {
         padding: 0; }
         .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .register-form .form-group {
@@ -4164,7 +4164,7 @@ footer {
             font-weight: 400;
             font-family: "Rubik", sans-serif; }
             .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .register-form .form-group input:focus, .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .register-form .form-group textarea:focus {
-              border-color: #ff5a2c;
+              border-color: #14a800;
               outline: none;
               -webkit-box-shadow: none;
                       box-shadow: none; }
@@ -4195,7 +4195,7 @@ footer {
         .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .register-form .register-btn-box {
           padding-top: 20px; }
           .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .register-form .register-btn-box .register-btn {
-            background: #ff5a2c;
+            background: #14a800;
             color: white;
             padding: 0 50px;
             color: #fff;
@@ -4210,7 +4210,7 @@ footer {
             transition: all 0.3s ease-in-out;
             cursor: pointer; }
             .blog_wrapper .blog_wrapper_right .blog-right-items .become_a_teacher .form-full-box .register-form .register-btn-box .register-btn:hover {
-              background: #ff5a2c;
+              background: #14a800;
               color: #ffffff; }
     .blog_wrapper .blog_wrapper_right .blog-right-items .recent_post_wrapper .single-post {
       display: -webkit-box;
@@ -4243,7 +4243,7 @@ footer {
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
           .blog_wrapper .blog_wrapper_right .blog-right-items .recent_post_wrapper .single-post .post_title a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
         .blog_wrapper .blog_wrapper_right .blog-right-items .recent_post_wrapper .single-post .post_title .post-date {
           margin-top: 8px; }
           .blog_wrapper .blog_wrapper_right .blog-right-items .recent_post_wrapper .single-post .post_title .post-date span {
@@ -4286,7 +4286,7 @@ footer {
             line-height: 24px;
             color: #6a7a83; }
             .blog_wrapper .blog_wrapper_right .blog-right-items .twitter_post_wrapper .twitter-single .twitter-post .twitter-title p a {
-              color: #092ace;
+              color: #001E00;
               text-transform: uppercase;
               font-weight: 500; }
     .blog_wrapper .blog_wrapper_right .blog-right-items .popular_tags .items-title {
@@ -4309,7 +4309,7 @@ footer {
         text-transform: uppercase;
         font-family: "Rubik", sans-serif; }
         .blog_wrapper .blog_wrapper_right .blog-right-items .popular_tags .tags-items ul li a:hover {
-          background: #ff5a2c;
+          background: #14a800;
           color: #ffffff; }
     .blog_wrapper .blog_wrapper_right .blog-right-items .archives .items-title {
       margin-bottom: 20px; }
@@ -4346,9 +4346,9 @@ footer {
             transition: all 0.3s ease-in-out;
             font-weight: 700; }
           .blog_wrapper .blog_wrapper_right .blog-right-items .archives .archives-items ul li a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
             .blog_wrapper .blog_wrapper_right .blog-right-items .archives .archives-items ul li a:hover:before {
-              color: #ff5a2c; }
+              color: #14a800; }
             .blog_wrapper .blog_wrapper_right .blog-right-items .archives .archives-items ul li a:hover:after {
               left: -30px; }
 
@@ -4385,13 +4385,13 @@ footer {
             margin: 0;
             font-size: 25px;
             font-weight: 700;
-            color: #ff5a2c;
+            color: #14a800;
             margin-bottom: 5px;
             position: relative; }
             .contact_info_wrapper .contact_info .event_location_info ul li .info_title:before {
               position: absolute;
               content: "";
-              background: #ff5a2c;
+              background: #14a800;
               height: 3px;
               width: 50px;
               left: -90px;
@@ -4465,7 +4465,7 @@ footer {
     padding: 0 40px;
     font-size: 14px;
     font-weight: 500;
-    background: #092ace;
+    background: #001E00;
     text-transform: uppercase;
     border: none;
     border-radius: 5px;
@@ -4479,7 +4479,7 @@ footer {
     transition: all 0.3s ease-in-out;
     font-family: "Rubik", sans-serif; }
     .contact_info_wrapper .contact_form_wrapper .leave_comment .submit-btn button:hover {
-      background: #ff5a2c; }
+      background: #14a800; }
 
 .google_map #map {
   -webkit-box-shadow: 5px 9px 49px 0px rgba(47, 47, 47, 0.08);
@@ -4509,7 +4509,7 @@ footer {
         width: 70px;
         left: 0;
         top: 10px;
-        background: #ff5a2c; }
+        background: #14a800; }
     .about_us .about_title h2 {
       color: #333146;
       font-size: 50px;
@@ -4547,7 +4547,7 @@ footer {
           width: 100%;
           left: 0;
           bottom: 2px;
-          background: #ff5a2c;
+          background: #14a800;
           opacity: 0.3;
           z-index: -1;
           -webkit-transition: all 0.3s ease-in-out;
@@ -4575,9 +4575,9 @@ footer {
   #about_unlimited_possibilities .item_6:before {
     right: 0;
     left: auto;
-    background: #ff5a2c; }
+    background: #14a800; }
   #about_unlimited_possibilities .item_6 .icon_wrapper i:before {
-    color: #ff5a2c; }
+    color: #14a800; }
 
 #about_our_instructors {
   padding: 120px 0 100px; }
@@ -4669,7 +4669,7 @@ footer {
           position: absolute;
           left: -90px;
           top: -10px;
-          color: #ff5a2c;
+          color: #14a800;
           background: #ffffff;
           height: 50px;
           width: 50px;
@@ -4727,7 +4727,7 @@ footer {
             .become_a_instructor .video_img .video_wrapper .video-play-btn span a:before {
               position: absolute;
               content: "";
-              background: #092ace;
+              background: #001E00;
               left: 50%;
               top: 50%;
               border-radius: 50%;
@@ -4739,14 +4739,14 @@ footer {
             .become_a_instructor .video_img .video_wrapper .video-play-btn span a:hover i {
               -webkit-transform: scale(1.15);
                       transform: scale(1.15);
-              background: #092ace;
+              background: #001E00;
               color: #ffffff; }
             .become_a_instructor .video_img .video_wrapper .video-play-btn span a i {
               height: 65px;
               width: 65px;
               line-height: 65px;
               font-size: 12px;
-              background: #092ace;
+              background: #001E00;
               color: #ffffff;
               border-radius: 50%;
               -webkit-transition: all 0.3s ease-in-out;
@@ -4757,7 +4757,7 @@ footer {
               font-size: 16px;
               font-weight: 600;
               line-height: 56px;
-              color: #092ace;
+              color: #001E00;
               padding-left: 25px; }
   .become_a_instructor .apply_instructor {
     -webkit-box-shadow: 0px 0px 60px 0px rgba(47, 47, 47, 0.1);
@@ -4792,7 +4792,7 @@ footer {
           font-size: 16px;
           font-weight: 400; }
           .become_a_instructor .apply_instructor form .form-group input:focus, .become_a_instructor .apply_instructor form .form-group textarea:focus {
-            border: 1px solid #092ace;
+            border: 1px solid #001E00;
             outline: none; }
           .become_a_instructor .apply_instructor form .form-group input ::-webkit-input-placeholder, .become_a_instructor .apply_instructor form .form-group textarea ::-webkit-input-placeholder {
             /* Chrome/Opera/Safari */
@@ -4820,7 +4820,7 @@ footer {
       .become_a_instructor .apply_instructor form .submit_btn {
         width: 100%;
         height: 48px;
-        background: #092ace;
+        background: #001E00;
         color: #ffffff;
         font-size: 18px;
         font-weight: 600;
@@ -4829,7 +4829,7 @@ footer {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         .become_a_instructor .apply_instructor form .submit_btn:hover {
-          background: #ff5a2c; }
+          background: #14a800; }
 
 #become_instructorr {
   background: #ffffff;
@@ -4837,7 +4837,7 @@ footer {
   #become_instructorr .sub_title h2, #become_instructorr .sub_title p {
     color: #333146; }
   #become_instructorr .envent_all_view a:hover {
-    background: #092ace;
+    background: #001E00;
     color: #ffffff; }
 
 .teachers_profile {
@@ -4867,8 +4867,8 @@ footer {
           .teachers_profile .teacher-detail-left .teacher_info_wrapper .social-items li a i:hover {
             color: #ffffff;
             padding: 0;
-            background: #092ace;
-            border: 1px solid #092ace; }
+            background: #001E00;
+            border: 1px solid #001E00; }
     .teachers_profile .teacher-detail-left .teacher_info_wrapper .teacher-skills {
       padding: 30px; }
       .teachers_profile .teacher-detail-left .teacher_info_wrapper .teacher-skills .skill-single {
@@ -4882,7 +4882,7 @@ footer {
           margin: 0; }
           .teachers_profile .teacher-detail-left .teacher_info_wrapper .teacher-skills .skill-single span .skills_lavel {
             display: inline;
-            color: #ff5a2c; }
+            color: #14a800; }
           .teachers_profile .teacher-detail-left .teacher_info_wrapper .teacher-skills .skill-single span:last-child {
             width: 100%;
             height: 10px;
@@ -4947,7 +4947,7 @@ footer {
         font-weight: 400;
         margin-bottom: 15px; }
         .teachers_profile .teacher-detail-right .teacher-contact form input:focus, .teachers_profile .teacher-detail-right .teacher-contact form textarea:focus {
-          border: 1px solid #092ace;
+          border: 1px solid #001E00;
           outline: none; }
         .teachers_profile .teacher-detail-right .teacher-contact form input ::-webkit-input-placeholder, .teachers_profile .teacher-detail-right .teacher-contact form textarea ::-webkit-input-placeholder {
           /* Chrome/Opera/Safari */
@@ -4974,7 +4974,7 @@ footer {
       .teachers_profile .teacher-detail-right .teacher-contact form button {
         width: 100%;
         border: 0 none;
-        background: #092ace;
+        background: #001E00;
         color: #ffffff;
         padding: 13px 0;
         font-weight: 600;
@@ -4985,7 +4985,7 @@ footer {
         transition: all 0.3s ease-in-out;
         font-family: "Rubik", sans-serif; }
         .teachers_profile .teacher-detail-right .teacher-contact form button:hover {
-          background: #ff5a2c; }
+          background: #14a800; }
   .teachers_profile .teacher-detail-right .courses_details_nav_tabs {
     margin-top: 70px; }
     .teachers_profile .teacher-detail-right .courses_details_nav_tabs ul {
@@ -5006,7 +5006,7 @@ footer {
           padding: 12px 15px; }
           .teachers_profile .teacher-detail-right .courses_details_nav_tabs ul li a i:before {
             font-size: 16px;
-            color: #092ace;
+            color: #001E00;
             margin-right: 15px;
             margin-left: 0; }
           .teachers_profile .teacher-detail-right .courses_details_nav_tabs ul li a.active {
@@ -5094,24 +5094,24 @@ footer {
         #courses_details_wrapper .courses_details .single-curses-contert .review-option .review-rank .rank-icons ul li, .event_details_wrapper .courses_details .single-curses-contert .review-option .review-rank .rank-icons ul li {
           display: inline-block; }
           #courses_details_wrapper .courses_details .single-curses-contert .review-option .review-rank .rank-icons ul li .review-icon, .event_details_wrapper .courses_details .single-curses-contert .review-option .review-rank .rank-icons ul li .review-icon {
-            color: #ff5a2c; }
+            color: #14a800; }
     #courses_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee, .event_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee {
       padding-left: 20px; }
       #courses_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span, .event_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span {
         font-size: 13px;
         display: table; }
         #courses_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child, .event_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child {
-          color: #092ace;
+          color: #001E00;
           margin-top: 5px;
           font-weight: 700;
           font-size: 18px;
           text-transform: uppercase; }
           #courses_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child .courses_price, .event_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child .courses_price {
-            color: #092ace; }
+            color: #001E00; }
     #courses_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn, .event_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn {
       padding-left: 40px; }
       #courses_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a, .event_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a {
-        background: #ff5a2c;
+        background: #14a800;
         height: 46px;
         padding: 0 35px;
         display: inline-block;
@@ -5125,7 +5125,7 @@ footer {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         #courses_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a:hover, .event_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a:hover {
-          background: #092ace; }
+          background: #001E00; }
   #courses_details_wrapper .courses_details .courses_tab_wrapper, .event_details_wrapper .courses_details .courses_tab_wrapper {
     padding: 35px 0px; }
     #courses_details_wrapper .courses_details .courses_tab_wrapper .courses_details_nav_tabs ul, .event_details_wrapper .courses_details .courses_tab_wrapper .courses_details_nav_tabs ul {
@@ -5145,7 +5145,7 @@ footer {
         font-family: "Rubik", sans-serif;
         font-size: 14px; }
         #courses_details_wrapper .courses_details .courses_tab_wrapper .courses_details_nav_tabs ul li a.active, .event_details_wrapper .courses_details .courses_tab_wrapper .courses_details_nav_tabs ul li a.active {
-          background: #ff5a2c;
+          background: #14a800;
           color: #ffffff; }
     #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents {
       margin-top: 35px; }
@@ -5155,7 +5155,7 @@ footer {
         padding: 20px 0; }
         #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3 span, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3 span {
           font-size: "Roboto", sans-serif;
-          color: #092ace; }
+          color: #001E00; }
       #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p {
         margin-bottom: 20px; }
         #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p:last-child, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p:last-child {
@@ -5172,7 +5172,7 @@ footer {
           content: "\f103";
           left: 0px;
           top: 0px;
-          color: #ff5a2c;
+          color: #14a800;
           font-weight: 700; }
       #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane .social_wrapper, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane .social_wrapper {
         margin-top: 80px; }
@@ -5270,7 +5270,7 @@ footer {
           vertical-align: middle;
           text-decoration: none; }
           #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-title a.collapsed:before, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-title a.collapsed:before {
-            color: #ff5a2c;
+            color: #14a800;
             position: absolute;
             content: "\f100";
             font-family: "Flaticon";
@@ -5284,7 +5284,7 @@ footer {
             -webkit-transition: all .3s ease-in;
             transition: all .3s ease-in; }
           #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-title a:before, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-title a:before {
-            color: #ff5a2c;
+            color: #14a800;
             position: absolute;
             content: "\f125";
             font-family: "Flaticon";
@@ -5315,7 +5315,7 @@ footer {
             padding-right: 50px;
             font-family: "Rubik", sans-serif; }
           #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-body .curriculum-single .lecture i, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-body .curriculum-single .lecture i {
-            color: #ff5a2c;
+            color: #14a800;
             font-size: 18px;
             padding-right: 10px; }
           #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-body .curriculum-single a, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-body .curriculum-single a {
@@ -5325,12 +5325,12 @@ footer {
             text-decoration: none;
             font-family: "Rubik", sans-serif;
             color: #333146;
-            border: 1px solid #ff5a2c;
+            border: 1px solid #14a800;
             font-weight: 500;
             -webkit-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out; }
             #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-body .curriculum-single a:hover, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .curriculum-text-box .curriculum-section .panel-group .panel .panel-body .curriculum-single a:hover {
-              background: #ff5a2c;
+              background: #14a800;
               color: #ffffff; }
       #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle {
         display: -webkit-box;
@@ -5353,7 +5353,7 @@ footer {
             -webkit-transform: scale(1);
                     transform: scale(1); }
           #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle:hover .teachers_name h5 a, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle:hover .teachers_name h5 a {
-            color: #ff5a2c; }
+            color: #14a800; }
         #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle .tutor_pro, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle .tutor_pro {
           margin-right: 30px;
           overflow: hidden;
@@ -5376,7 +5376,7 @@ footer {
         #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle .teachers_name span, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .courses_teacher .tutor_signle .teachers_name span {
           font-weight: 500;
           font-size: 14px;
-          color: #ff5a2c;
+          color: #14a800;
           margin-top: 5px; }
       #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .review-content, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .review-content {
         margin-bottom: 70px;
@@ -5402,7 +5402,7 @@ footer {
               margin: 0;
               padding: 10px; }
               #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .review-content .five-star-rating .rating_box_count ul li, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .review-content .five-star-rating .rating_box_count ul li {
-                color: #ff5a2c;
+                color: #14a800;
                 display: inline-block; }
                 #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .review-content .five-star-rating .rating_box_count ul li i:before, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .review-content .five-star-rating .rating_box_count ul li i:before {
                   font-size: 26px;
@@ -5497,7 +5497,7 @@ footer {
                   padding: 0 1px; }
                   #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text .rating ul li i:before, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text .rating ul li i:before {
                     font-size: 14px;
-                    color: #ff5a2c;
+                    color: #14a800;
                     margin-left: 0px; }
               #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text p, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text p {
                 margin: 19px 0 0; }
@@ -5512,7 +5512,7 @@ footer {
       #courses_details_wrapper .blog-right-items .courses_features .items-title h3, .event_details_wrapper .blog-right-items .courses_features .items-title h3 {
         color: #ffffff; }
         #courses_details_wrapper .blog-right-items .courses_features .items-title h3:before, .event_details_wrapper .blog-right-items .courses_features .items-title h3:before {
-          background: #ff5a2c; }
+          background: #14a800; }
     #courses_details_wrapper .blog-right-items .courses_features .features_items, .event_details_wrapper .blog-right-items .courses_features .features_items {
       padding-left: 80px;
       padding-right: 50px; }
@@ -5535,15 +5535,15 @@ footer {
           color: rgba(255, 255, 255, 0.7); }
           #courses_details_wrapper .blog-right-items .courses_features .features_items ul li a i:before, .event_details_wrapper .blog-right-items .courses_features .features_items ul li a i:before {
             margin: 0;
-            color: #ff5a2c;
+            color: #14a800;
             padding-right: 15px;
             font-size: 15px;
             font-weight: 600;
             opacity: 0.8; }
           #courses_details_wrapper .blog-right-items .courses_features .features_items ul li a:hover, .event_details_wrapper .blog-right-items .courses_features .features_items ul li a:hover {
-            color: #ff5a2c; }
+            color: #14a800; }
             #courses_details_wrapper .blog-right-items .courses_features .features_items ul li a:hover:before, .event_details_wrapper .blog-right-items .courses_features .features_items ul li a:hover:before {
-              color: #ff5a2c; }
+              color: #14a800; }
         #courses_details_wrapper .blog-right-items .courses_features .features_items ul li span, .event_details_wrapper .blog-right-items .courses_features .features_items ul li span {
           color: rgba(255, 255, 255, 0.7);
           font-family: "Rubik", sans-serif; }
@@ -5561,7 +5561,7 @@ footer {
     font-weight: 500;
     padding-right: 15px; }
   #courses_details_wrapper .blog-right-items .popular_courses_post .courses_price .price .new_price, .event_details_wrapper .blog-right-items .popular_courses_post .courses_price .price .new_price {
-    color: #ff5a2c !important;
+    color: #14a800 !important;
     padding-right: 0px;
     font-weight: 600; }
   #courses_details_wrapper .blog-right-items .get_discount, .event_details_wrapper .blog-right-items .get_discount {
@@ -5581,7 +5581,7 @@ footer {
         font-weight: 700;
         padding: 15px 15px 25px; }
       #courses_details_wrapper .blog-right-items .get_discount .items-title a, .event_details_wrapper .blog-right-items .get_discount .items-title a {
-        background: #092ace;
+        background: #001E00;
         height: 50px;
         padding: 0 40px;
         display: inline-block;
@@ -5654,9 +5654,9 @@ footer {
         transition: all 0.3s ease-in-out;
         font-weight: 700; }
       #related_courses_wrapper .owl-buttons .owl-prev:hover, #related_courses_wrapper .owl-buttons .owl-next:hover {
-        border: 1px solid #ff5a2c; }
+        border: 1px solid #14a800; }
         #related_courses_wrapper .owl-buttons .owl-prev:hover i:before, #related_courses_wrapper .owl-buttons .owl-next:hover i:before {
-          color: #ff5a2c; }
+          color: #14a800; }
 
 .event_page .intro_wrapper {
   background: url("../images/banner/inner_banner_5.jpg") no-repeat center center !important; }
@@ -5673,7 +5673,7 @@ footer {
         font-weight: 700;
         color: #333146; }
       .event_details_wrapper .event_intro .post_content .post_by .date_event {
-        color: #ff5a2c; }
+        color: #14a800; }
     .event_details_wrapper .event_intro .post_content .blog_post_content p {
       margin-bottom: 30px;
       color: #333146; }
@@ -5720,7 +5720,7 @@ footer {
               font-size: 14px;
               color: #333146; }
             .event_details_wrapper .location_bottom_wrapper .event_details .event_location_info ul li .hall_location {
-              color: #ff5a2c; }
+              color: #14a800; }
     .event_details_wrapper .location_bottom_wrapper .event_location_map {
       margin-top: 90px;
       padding-left: 60px; }
