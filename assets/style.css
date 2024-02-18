@@ -282,3 +282,73 @@
 .fa,.fas {
     color: #14a800 !important;
 }
+
+.info-wrap * {
+  color: #fff !important;
+}
+
+.info-wrap p {
+ color: #ffffffcc !important;
+ font-size: 16px;
+ margin-bottom: 0;
+ margin-top: 0;
+}
+
+.bg-primary {
+    background: #14a800 !important;
+}
+
+.info-wrap .dbox {
+    width: 100%;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 25px;
+}
+
+.info-wrap .dbox .icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+.info-wrap .dbox p span {
+    font-weight: 500;
+    color: #fff;
+}
+
+.info-wrap .dbox .text {
+    width: calc(100% - 50px);
+}
+
+.contact-wrap {
+    background: #fff;
+}
+
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem !important;
+        line-height: 1.5;
+    font-weight: 400;
+    font-family: "Poppins", Arial, sans-serif;
+    color: #000;
+}
+
+.contactForm .label {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.form-control {
+  padding: 20px;
+}
+
+.btn.btn-primary {
+    background: #14a800 !important;
+    border-color: #14a800 !important;
+    color: #fff;
+    padding: 15px;
+}
+
+.contact-con {
+  margin: 50px auto;
+}
