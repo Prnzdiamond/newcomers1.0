@@ -9,8 +9,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document <?php echo $site; ?></title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="assets/css/owl.css">
     
 
     <?php include 'inc/header.layout.php'; ?>
@@ -81,168 +81,252 @@
     </div>
 </section>
 <!-- UPCOMING EVENTS -->
- <section class="ttm-row event-section clearfix">
-            <div class="container">
-                <!-- row -->
-                <div class="row">
-                    <div class="col-md-2"></div>
-                    <div class="col-md-8">
-                        <!-- section title -->
-                        <div class="section-title with-desc title-style-center_text clearfix">
-                            <div class="title-header">
-                                <h5>OUR EVENTS</h5>
-                                <h2 class="title">Our Upcoming Events</h2>
-                            </div>
-                            <div class="title-desc">Raising a heavy fur muff that covered the whole of her lower arm towards the viewer regor then turned to look out the window</div>
-                        </div><!-- section title end -->
+<div class="section-area section-sp2">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center heading-bx">
+							<h2 class="title-head m-b0">Upcoming <span>Events</span></h2>
+							<p class="m-b0">Upcoming Education Events To Feed Brain. </p>
+						</div>
+					</div>
+					<div class="row">
+					<div class="upcoming-event-carousel owl-carousel owl-btn-center-lr owl-btn-1 col-12 p-lr0  m-b30">
+						<div class="item">
+							<div class="event-bx">
+								<div class="action-box">
+									<img src="assets/images/events/upcomingtes1.jpg" alt="">
+								<div class="info-bx d-flex">
+									<div>
+										<div class="event-time">
+											<div class="event-date">29</div>
+											<div class="event-month">October</div>
+										</div>
+									</div>
+									<div class="event-info">
+										<h4 class="event-title"><a href="#">Education Autumn Tour 2019</a></h4>
+										<ul class="media-post">
+											<li><a href="#"><i class="fa fa-clock-o"></i> 7:00am 8:00am</a></li>
+											<li><a href="#"><i class="fa fa-map-marker"></i> Berlin, Germany</a></li>
+										</ul>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the..</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						</div>
+						<div class="item">
+							<div class="event-bx">
+								<div class="action-box">
+									<img src="assets/images/events/upcomingtes1.jpg" alt="">
+								</div>
+								<div class="info-bx d-flex">
+									<div>
+										<div class="event-time">
+											<div class="event-date">29</div>
+											<div class="event-month">October</div>
+										</div>
+									</div>
+									<div class="event-info">
+										<h4 class="event-title"><a href="#">Education Autumn Tour 2019</a></h4>
+										<ul class="media-post">
+											<li><a href="#"><i class="fa fa-clock-o"></i> 7:00am 8:00am</a></li>
+											<li><a href="#"><i class="fa fa-map-marker"></i> Berlin, Germany</a></li>
+										</ul>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the..</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="event-bx">
+								<div class="action-box">
+									<img src="assets/images/events/upcomingtes1.jpg" alt="">
+								</div>
+								<div class="info-bx d-flex">
+									<div>
+										<div class="event-time">
+											<div class="event-date">29</div>
+											<div class="event-month">October</div>
+										</div>
+									</div>
+									<div class="event-info">
+										<h4 class="event-title"><a href="#">Education Autumn Tour 2019</a></h4>
+										<ul class="media-post">
+											<li><a href="#"><i class="fa fa-clock-o"></i> 7:00am 8:00am</a></li>
+											<li><a href="#"><i class="fa fa-map-marker"></i> Berlin, Germany</a></li>
+										</ul>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the..</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					</div>
+					<div class="text-center">
+						<a href="#" class="btn">View All Event</a>
+					</div>
+				</div>
+			</div>
+			<!-- END OF UPCOMING EVENTS -->
+
+			<div class="intro_button join-div">
+							<a href="#" class="nav-link join-com-btn">JOIN THE COMMUNITY</a>
+						</div>
+			<!-- PAST EVENTS -->
+
+			
+			<div class="section-area section-sp2">
+                <div class="container">
+					<div class="row">
+						<div class="col-md-12 heading-bx left">
+							<h2 class="title-head">Recent <span>News</span></h2>
+							<p>It is a long established fact that a reader will be distracted by the readable content of a page</p>
+						</div>
+					</div>
+					<div class="recent-news-carousel owl-carousel owl-btn-1 col-12 p-lr0">
+						<div class="item">
+							<div class="recent-news">
+								<div class="action-box">
+									<img src="assets/images/blog/side_blog_1.jpg" alt="">
+								</div>
+								<div class="info-bx">
+									<ul class="media-post">
+										<li><a href="#"><i class="fa fa-calendar"></i>Jan 02 2019</a></li>
+										<li><a href="#"><i class="fa fa-user"></i>By William</a></li>
+									</ul>
+									<h5 class="post-title"><a href="blog-details.html">This Story Behind Education Will Haunt You Forever.</a></h5>
+									<p>Knowing that, you’ve optimised your pages countless amount of times, written tons.</p>
+									<div class="post-extra">
+										<a href="#" class="btn-link">READ MORE</a>
+										<a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="recent-news">
+								<div class="action-box">
+									<img src="assets/images/blog/side_blog_1.jpg" alt="">
+								</div>
+								<div class="info-bx">
+									<ul class="media-post">
+										<li><a href="#"><i class="fa fa-calendar"></i>Feb 05 2019</a></li>
+										<li><a href="#"><i class="fa fa-user"></i>By John</a></li>
+									</ul>
+									<h5 class="post-title"><a href="blog-details.html">What Will Education Be Like In The Next 50 Years?</a></h5>
+									<p>As desperate as you are right now, you have done everything you can on your.</p>
+									<div class="post-extra">
+										<a href="#" class="btn-link">READ MORE</a>
+										<a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="recent-news">
+								<div class="action-box">
+									<img src="assets/images/blog/side_blog_1.jpg" alt="">
+								</div>
+								<div class="info-bx">
+									<ul class="media-post">
+										<li><a href="#"><i class="fa fa-calendar"></i>April 14 2019</a></li>
+										<li><a href="#"><i class="fa fa-user"></i>By George</a></li>
+									</ul>
+									<h5 class="post-title"><a href="blog-details.html">Master The Skills Of Education And Be.</a></h5>
+									<p>You will see in the guide all my years of valuable experience together with.</p>
+									<div class="post-extra">
+										<a href="#" class="btn-link">READ MORE</a>
+										<a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- <section class="events-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="event_title_wrapper">  
+                    <div class="sub_title">
+                        <h2>Our PAST Events</h2>
+                        <p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra. Pede phasellus eget. Etiam maecenas vel vici quis dictum rutrum nec nisi et.</p>  
                     </div>
-                    <div class="col-md-2"></div>
-                </div><!-- row end-->
-                <div class="row">
-                    <div class="wrap-event event-slide owl-carousel" data-item="3" data-nav="false" data-dots="false" data-auto="false">
-                        <!-- featured-imagebox-team -->
-                        <div class="featured-imagebox featured-imagebox-event mb-20">
-                            <div class="featured-thumbnail">
-                                <div class="ttm-box-post-date">
-                                    <span class="ttm-entry-date">
-                                        <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">15<span class="entry-month entry-year">Mar</span></time>
-                                    </span>
-                                </div>
-                                <img class="img-fluid" src="assets/images/events/upcomingtes2.jpg" alt="image"> 
-                            </div> 
-                            <div class="featured-content featured-content-event box-shadow2">
-                                <div class="ttm-box-meta">
-                                    <span class="ttm-event-meta-item ttm-event-date"> 
-                                        <i class="fas fa-clock-o"></i> 
-                                        <span class="ttm-event-meta-dtstart"> November 28 </span>
-                                        <span class="sep">-</span> 
-                                        <span class="ttm-event-meta-dtend">8:00 am - 5:00 pm </span>
-                                    </span>
-                                    <div class="tribe-events-vanue"> 
-                                        <i class="fas fa-map-marker"></i>26 New York City  
-                                    </div>
-                                </div>
-                                <div class="featured-title pt-10">
-                                    <h5><a href="event-details.html">Seminar of Different Types of Plumbing Control in 2019</a></h5>
-                                </div>
-                                <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-black btn-inline" href="#">VIEW DETAILS<i class="ti ti-angle-double-right"></i></a>
-                            </div>
-                        </div><!-- featured-imagebox-team end-->
-                        <!-- featured-imagebox-team -->
-                        <div class="featured-imagebox featured-imagebox-event mb-20">
-                            <div class="featured-thumbnail">
-                                <div class="ttm-box-post-date">
-                                    <span class="ttm-entry-date">
-                                        <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">16<span class="entry-month entry-year">Feb</span></time>
-                                    </span>
-                                </div>
-                                <img class="img-fluid" src="assets/images/events/upcomingtes2.jpg" alt="image"> 
-                            </div> 
-                            <div class="featured-content featured-content-event box-shadow2">
-                                <div class="ttm-box-meta">
-                                    <span class="ttm-event-meta-item ttm-event-date"> 
-                                        <i class="fas fa-clock-o"></i> 
-                                        <span class="ttm-event-meta-dtstart"> November 28 </span>
-                                        <span class="sep">-</span> 
-                                        <span class="ttm-event-meta-dtend">8:00 am - 5:00 pm </span>
-                                    </span>
-                                    <div class="tribe-events-vanue"> 
-                                        <i class="fas fa-map-marker"></i>26 New York City  
-                                    </div>
-                                </div>
-                                <div class="featured-title pt-10">
-                                    <h5><a href="event-details.html">Clean Air Day Awareness of Indoor Air Pollution</a></h5>
-                                </div>
-                                <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-black btn-inline" href="#">VIEW DETAILS<i class="ti ti-angle-double-right"></i></a>
-                            </div>
-                        </div><!-- featured-imagebox-team end-->
-                        <!-- featured-imagebox-team -->
-                        <div class="featured-imagebox featured-imagebox-event mb-20">
-                            <div class="featured-thumbnail">
-                                <div class="ttm-box-post-date">
-                                    <span class="ttm-entry-date">
-                                        <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">20<span class="entry-month entry-year">Mar</span></time>
-                                    </span>
-                                </div>
-                                <img class="img-fluid" src="assets/images/events/upcomingtes2.jpg" alt="image"> 
-                            </div> 
-                            <div class="featured-content featured-content-event box-shadow2">
-                                <div class="ttm-box-meta">
-                                    <span class="ttm-event-meta-item ttm-event-date"> 
-                                        <i class="fas fa-clock-o"></i> 
-                                        <span class="ttm-event-meta-dtstart"> November 28 </span>
-                                        <span class="sep">-</span> 
-                                        <span class="ttm-event-meta-dtend">8:00 am - 5:00 pm </span>
-                                    </span>
-                                    <div class="tribe-events-vanue"> 
-                                        <i class="fas fa-map-marker"></i>26 New York City  
-                                    </div>
-                                </div>
-                                <div class="featured-title pt-10">
-                                    <h5><a href="event-details.html">Camps for New Inventions of Faucets Cleaning</a></h5>
-                                </div>
-                                <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-black btn-inline" href="#">VIEW DETAILS<i class="ti ti-angle-double-right"></i></a>
-                            </div>
-                        </div><!-- featured-imagebox-team end-->
-                        <!-- featured-imagebox-team -->
-                        <div class="featured-imagebox featured-imagebox-event mb-20">
-                            <div class="featured-thumbnail">
-                                <div class="ttm-box-post-date">
-                                    <span class="ttm-entry-date">
-                                        <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">27<span class="entry-month entry-year">Dec</span></time>
-                                    </span>
-                                </div>
-                                <img class="img-fluid" src="assets/images/events/upcomingtes2.jpg" alt="image"> 
-                            </div> 
-                            <div class="featured-content featured-content-event box-shadow2">
-                                <div class="ttm-box-meta">
-                                    <span class="ttm-event-meta-item ttm-event-date"> 
-                                        <i class="fas fa-clock-o"></i> 
-                                        <span class="ttm-event-meta-dtstart"> November 28 </span>
-                                        <span class="sep">-</span> 
-                                        <span class="ttm-event-meta-dtend">8:00 am - 5:00 pm </span>
-                                    </span>
-                                    <div class="tribe-events-vanue"> 
-                                        <i class="fas fa-map-marker"></i>26 New York City  
-                                    </div>
-                                </div>
-                                <div class="featured-title pt-10">
-                                    <h5><a href="event-details.html">Tools Camp For Handymans in Newyork City</a></h5>
-                                </div>
-                                <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-black btn-inline" href="#">VIEW DETAILS<i class="ti ti-angle-double-right"></i></a>
-                            </div>
-                        </div><!-- featured-imagebox-team end-->
+                    <div class="envent_all_view">
+                        <a href="#" title="">View All</a>
                     </div>
-                </div>
+                </div> 
             </div>
-        </section>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 events_full_box">
+                <div class="events_single">
+                    <div class="event_banner">
+                        <a href="#"><img src="two/images/events/event_1.jpg" alt="" class="img-fluid"></a>
+                    </div>
+                    <div class="event_info">
+                        <h3><a href="#" title="">OneNote for Windows 10 Essential<br> Training</a></h3>
+                        <div class="events_time">
+                            <span class="time"><i class="flaticon-clock-circular-outline"></i>8.00 Am - 5.00 Pm</span>
+                            <span><i class="fas fa-map-marker-alt"></i>Hall - A | Broklyn Audiitorium</span>
+                        </div>
+                        <p>Lorem ipsum dolor sit amet mollis dapibus arcur donec viverra to phasellus<br> eget. Etiam maecenas vel vici quis dictum rutrum nec nisi et. Ac pena<br> tibus aenean laoreet.</p>
+                        <div class="event_dete">
+                            <span class="date">09</span>
+                            <span>Jan</span>
+                        </div>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col-sm-12 events_full_box">
+                <div class="events_single events_single_left">
+                    <div class="event_info">
+                        <h3><a href="#" title="">Magazine Design Start to Finish:<br> The Inside Pages</a></h3>
+                        <div class="events_time">
+                            <span class="time"><i class="flaticon-clock-circular-outline"></i>8.00 Am - 5.00 Pm</span>
+                            <span><i class="fas fa-map-marker-alt"></i>Hall - A | Broklyn Audiitorium</span>
+                        </div>
+                         <p>Lorem ipsum dolor sit amet mollis dapibus arcur donec viverra to phasellus<br> eget. Etiam maecenas vel vici quis dictum rutrum nec nisi et. Ac pena<br> tibus aenean laoreet.</p>
+                    </div>
+                    <div class="event_banner">
+                        <a href="#"><img src="two/images/events/event_2.jpg" alt="" class="img-fluid"></a>
+                    </div>
+                    <div class="event_dete">
+                        <span class="date">15</span>
+                        <span>Jan</span>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="col-sm-12 events_full_box">
+                <div class="events_single">
+                    <div class="event_banner">
+                        <a href="#"><img src="two/images/events/event_3.jpg" alt="" class="img-fluid"></a>
+                    </div>
+                    <div class="event_info">
+                        <h3><a href="#" title="">Robotic Process Automation Tech<br> Primer</a></h3>
+                        <div class="events_time">
+                            <span class="time"><i class="flaticon-clock-circular-outline"></i>8.00 Am - 5.00 Pm</span>
+                            <span><i class="fas fa-map-marker-alt"></i>Hall - A | Broklyn Audiitorium</span>
+                        </div>
+                         <p>Lorem ipsum dolor sit amet mollis dapibus arcur donec viverra to phasellus<br> eget. Etiam maecenas vel vici quis dictum rutrum nec nisi et. Ac pena<br> tibus aenean laoreet.</p>
+                        <div class="event_dete">
+                            <span class="date">20</span>
+                            <span>Jan</span>
+                        </div>
+                    </div>
+                </div>  
+            </div>            
+
+        </div>
+    </div>
+</section> -->
     <?php include 'inc/footer.layout.php'; ?>
     <?php include 'inc/scripts.layout.php'; ?>
-
-
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script type="text/javascript">
-        //var count = $('.owl-carousel').getAttr('data-item');
-        $('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:10,
-    smartSpeed:3000,
-    nav:true,
-    responsive:{
-        0:{
-            items:1
-        },
-        600:{
-            items:3
-        },
-        1000:{
-            items:3
-        }
-    }
-});
-    </script>
+	<script src="assets/js/owl.carousel.js"></script>
+     <script src="assets/script.js?v=<?php echo time(); ?>"></script>
 </body>
 </html>
