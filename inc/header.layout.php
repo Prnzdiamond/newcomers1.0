@@ -56,29 +56,29 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/bootstrap.min.css?v=<?php echo time(); ?>">
     <!-- Font awsome CSS -->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/font-awesome.min.css">
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/font-awesome.css"> 
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/themify-icons.css">    
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/flaticon.css">
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/magnific-popup.css">    
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/font-awesome.min.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/font-awesome.css?v=<?php echo time(); ?>"> 
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/themify-icons.css?v=<?php echo time(); ?>">    
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/flaticon.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/magnific-popup.css?v=<?php echo time(); ?>">    
     <!-- owl carousel -->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/owl.carousel.css">
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/owl.theme.css">     
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/animate.css"> 
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/owl.carousel.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/owl.theme.css?v=<?php echo time(); ?>">     
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/animate.css?v=<?php echo time(); ?>"> 
     <!-- Slick Carousel -->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/slick.css">  
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/preloader.css"/>    
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/slick.css?v=<?php echo time(); ?>">  
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/preloader.css?v=<?php echo time(); ?>"/>    
 
     <!-- Revolution Slider -->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/revolution/layers.css">
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/revolution/navigation.css">
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/revolution/settings.css">    
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/revolution/layers.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/revolution/navigation.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/revolution/settings.css?v=<?php echo time(); ?>">    
     <!-- Mean Menu-->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/meanmenu.css">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/assets/meanmenu.css?v=<?php echo time(); ?>">
     <!-- main style-->
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/style.css">    
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/responsive.css">
-    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/demo.css">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/style.css?v=<?php echo time(); ?>">    
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/responsive.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/css/demo.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="<?php echo $file_dir; ?>assets/style.css?v=<?php echo time(); ?>">

@@ -654,6 +654,14 @@ img {
 .recent-news {
     box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
     background: #fff;
+    width: 360px;
+    height: fit-content;
+}
+
+
+.recent-news img,.recent-news .action-box {
+    width: inherit;
+    height:  inherit !important;
 }
 
 .action-box {
@@ -723,4 +731,42 @@ img {
 
 .comments-bx i {
     margin-right: 5px;
+}
+
+
+.recent-news-carousel .owl-nav {
+    position: absolute;
+    top: -80px;
+    right: -5px;
+}
+
+.portfolio-bx .portfolio-info-bx, .btn.outline:hover, .course-info-list ul li a.active, .course-info-list ul li a:hover, .btn, .profile-tabnav .nav li a.active, button.back-to-top, .upcoming-event-carousel.owl-btn-1 .owl-prev, .upcoming-event-carousel.owl-btn-1 .owl-next, .courses-carousel .owl-nav .owl-next, .courses-carousel .owl-nav .owl-prev, .recent-news-carousel .owl-nav .owl-next, .recent-news-carousel .owl-nav .owl-prev, .testimonial-carousel .owl-nav .owl-next, .testimonial-carousel .owl-nav .owl-prev {
+    background-color: var(--main);
+    color: #000;
+}
+
+.courses-carousel .owl-nav .owl-next, .courses-carousel .owl-nav .owl-prev, .recent-news-carousel .owl-nav .owl-next, .recent-news-carousel .owl-nav .owl-prev, .testimonial-carousel .owl-nav .owl-next, .testimonial-carousel .owl-nav .owl-prev {
+    margin: 0 5px !important;
+}
+
+
+.owl-prev .fa, .owl-next .fa {
+    color: var(--white) !important;
+}
+
+.post-title a {
+    color: #061538;
+}
+
+.btn-link {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    display: inline-block;
+    font-weight: 400;
+    color: #000;
+}
+
+.media-post li a {
+    color: var(--seconday);
+    vertical-align: middle;
 }
